@@ -1,0 +1,101 @@
+,School,Rating,Rating Count,Public_or_Private,PvP_Code
+0,University of Wyoming,3.7262422360248446,3091,public,1
+1,University of Wisconsin - Madison,3.7855355064027862,47657,public,1
+2,West Virginia University,3.8053460620525086,23026,public,1
+3,University of Washington,3.7844318181818055,41845,public,1
+4,George Mason University,3.777748263179392,74811,public,1
+5,University of Vermont,3.707607776838549,17457,public,1
+6,Brigham Young University,4.026192893400995,85179,public,1
+7,Texas A&M University at College Station,3.71805280528052,31903,public,1
+8,University of Tennessee - Knoxville,3.758922454064147,38817,public,1
+9,South Dakota State University,3.6553819444444438,4917,public,1
+10,University of South Carolina,3.8030504305042867,59665,public,1
+11,University of Rhode Island,3.698182850653037,24351,public,1
+12,Pennsylvania State University,3.692497512437801,65250,public,1
+13,Portland State University,3.6841617210682585,32920,public,1
+14,University of Oklahoma,3.7519105691056835,19796,public,1
+15,The Ohio State University,3.792000706339385,65355,public,1
+16,University of North Dakota,3.6442553191489417,9539,public,1
+17,North Carolina State University,3.706634106634108,21797,public,1
+18,University at Buffalo (SUNY Buffalo),3.7164571005917137,34161,public,1
+19,University of Alabama,3.883830633702741,46667,public,1
+20,University of Alaska Anchorage,3.815542521994136,16029,public,1
+21,Arizona State University,3.6834564682022073,113095,public,1
+22,University of Arkansas,3.762967032967021,33118,public,1
+23,University of California Los Angeles (UCLA),3.7591240875912435,4437,public,1
+24,University of Colorado - Boulder,3.659779179810723,17901,public,1
+25,University of Connecticut,3.6487086359967713,25491,public,1
+26,University of Delaware,3.6974809160305337,55942,public,1
+27,University of Central Florida,3.7550598732096647,105495,public,1
+28,University of Georgia,3.85635251598553,43832,public,1
+29,University of Hawaii at Manoa,3.8508910891089045,26518,public,1
+30,Boise State University,3.748868312757205,23045,public,1
+31,University Of Illinois at Urbana - Champaign,3.669186573934075,31040,public,1
+32,Indiana University Bloomington,3.727530471648113,32709,public,1
+33,University of Iowa,3.6933509467195087,21306,public,1
+34,University of Kansas,3.7398687765341534,25562,public,1
+35,University of Kentucky,3.770909090909082,26467,public,1
+36,Louisiana State University,3.6874523103009804,23579,public,1
+37,University of Maine,3.7094715852442666,14752,public,1
+38,University of Maryland,3.6624905944319033,18985,public,1
+39,University of Massachusetts,3.677341816896436,41703,public,1
+40,Michigan State University,3.6331068560840016,9592,public,1
+41,University of Minnesota-Twin Cities,3.6989543077972185,49263,public,1
+42,Mississippi State University,3.5714836223506765,5902,public,1
+43,University of Missouri - Columbia,3.6664503245132285,17694,public,1
+44,Montana State University,3.6969536423841047,4612,public,1
+45,University of Nebraska-Lincoln,3.633748753738788,16066,public,1
+46,University of Nevada Las Vegas,3.866900584795306,51608,public,1
+47,University of New Hampshire (all campuses),3.6921070234113733,14968,public,1
+48,Rutgers - State University of New Jersey,3.7663812436289215,71220,public,1
+49,University of New Mexico,3.76951566951566,28481,public,1
+50,Harvard University,3.961237785016285,1671,private,2
+51,Stanford University,3.9413994169096203,1963,private,2
+52,Yale University,3.8286956521739137,1075,private,2
+53,Massachusetts Institute of Technology,3.88205128205128,1300,private,2
+54,Princeton University,4.076571428571428,804,private,2
+55,University of Pennsylvania,3.777272727272727,1757,private,2
+56,Brown University,3.852631578947367,2034,private,2
+57,California Institute of Technology,3.6803921568627453,246,private,2
+58,Duke University,3.848800000000009,17231,private,2
+59,Dartmouth College,3.870866141732285,404,private,2
+60,Cornell University,3.7996378685980337,20510,private,2
+61,Pomona College,4.106854838709678,1571,private,2
+62,University of California Berkeley,3.803881439661253,35898,private,2
+63,Columbia University,3.7233905579399145,2918,private,2
+64,Georgetown University,3.8596185286103646,23324,private,2
+65,University of Chicago,3.862700964630224,1478,private,2
+66,Northwestern University,3.736150234741783,863,private,2
+67,University of Notre Dame,3.9435045317220543,1021,private,2
+68,Williams College,3.989473684210525,341,private,2
+69,University of Michigan,3.834272064370103,51571,private,2
+70,Rice University,3.9173076923076917,622,private,2
+71,Johns Hopkins University,3.6812977099236632,3118,private,2
+72,Harvey Mudd College,4.157894736842106,996,private,2
+73,United States Naval Academy,3.894094094094096,8138,private,2
+74,Swarthmore College,4.014500000000001,1266,private,2
+75,Bowdoin College,3.9774891774891774,2068,private,2
+76,Vanderbilt University,3.8748152709359616,19522,private,2
+77,Amherst College,4.083255813953489,1787,private,2
+78,Claremont McKenna College,3.8897338403041806,3165,private,2
+79,University of Southern California,3.8210659898477184,31275,private,2
+80,Washington University in St. Louis,3.809511111111115,9587,private,2
+81,United States Military Academy,4.146153846153847,216,private,2
+82,University of Virginia,3.825634178905212,15044,private,2
+83,Tufts University,3.8434167573449396,9660,private,2
+84,New York University,3.807168458781352,33791,private,2
+85,Middlebury College,4.185555555555556,345,private,2
+86,Carnegie Mellon University,3.77612208258528,3252,private,2
+87,University of California Los Angeles (UCLA),3.7578288100208788,4436,private,2
+88,Bates College,3.871138211382113,2016,private,2
+89,Wesleyan University,3.9238202247191016,3602,private,2
+90,Boston College,3.921698113207548,1058,private,2
+91,Washington and Lee University,3.9233146067415743,3970,private,2
+92,United States Air Force Academy,4.405555555555557,365,private,2
+93,Wellesley College,4.119377162629759,1560,private,2
+94,University of North Carolina at Chapel Hill,3.874749899959984,23841,private,2
+95,Colgate University,3.885,6034,private,2
+96,College of William and Mary,3.849328859060408,20617,private,2
+97,Davidson College,3.9010489510489528,3654,private,2
+98,Haverford College,4.006081081081081,653,private,2
+99,Barnard College,3.5740740740740735,68,private,2
