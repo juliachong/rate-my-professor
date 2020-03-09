@@ -20,4 +20,6 @@ Conclusions:
 - Private colleges had a higher standard deviation as well as a higher average rating.
 
 Visualizations:
+
+
 ![](private_public.png)
