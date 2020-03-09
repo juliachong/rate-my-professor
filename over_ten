@@ -1,0 +1,1794 @@
+school,name,department,rating,rating_count
+"Pennsylvania State University","Chuderewicz Russell",Economics,3.4,446
+"Pennsylvania State University","Mateer Dirk",Economics,4.4,378
+"Pennsylvania State University","Peck Andrew",Psychology,4.7,334
+"Pennsylvania State University","McLeod Mark",Economics,4.3,307
+"Pennsylvania State University","Quick Susan","Computer Science",1.6,282
+"Pennsylvania State University","Boyle Austin",Economics,2.6,277
+"Pennsylvania State University","Richards Samuel",Sociology,3.8,272
+"Pennsylvania State University","Bojan Mary",Chemistry,2.4,250
+"Pennsylvania State University","Hager James",Mathematics,3.2,243
+"Pennsylvania State University","Pisupati Sarma","Earth Science",3.4,233
+"Pennsylvania State University","Maslak Przemyslaw",Chemistry,3,227
+"Pennsylvania State University","Brown David",Economics,4.5,223
+"Pennsylvania State University","Love Jeff",Psychology,4.4,209
+"Pennsylvania State University","Waters John","Biological Sciences",3.9,208
+"Pennsylvania State University","Goffe William Leo",Economics,3,200
+"Pennsylvania State University","Clemente Frank",Sociology,4.8,193
+"Pennsylvania State University","Johnson Ronald",Management,3,182
+"Pennsylvania State University","Hagopian Kevin",Communication,2.8,181
+"Pennsylvania State University","Countermine Molly","Human Development",4.5,179
+"Pennsylvania State University","Christman Roger","Computer Science",2,177
+"Pennsylvania State University","Blanco Marilyn",Business,4,176
+"Pennsylvania State University","Little David",Mathematics,3,176
+"Pennsylvania State University","Smith Curtis","Religious Studies",3.3,175
+"Pennsylvania State University","Pasch Ken",Accounting,3.4,167
+"Pennsylvania State University","Tierney James",Economics,4,162
+"Pennsylvania State University","Hogan Doug","Computer Science",2.6,161
+"Pennsylvania State University","Tseng Zach",Mathematics,2.6,160
+"Pennsylvania State University","Buchanan Patricia",Mathematics,2.7,157
+"Pennsylvania State University","Uhl Christopher","Biological Sciences",3.2,155
+"Pennsylvania State University","Sharp Jeff",Business,4.4,151
+"Pennsylvania State University","Hunt Cathleen",Psychology,3.8,149
+"Pennsylvania State University","Trimble Patrick","Integrated Arts",3.3,148
+"Pennsylvania State University","Ali Rahan",Psychology,4.4,144
+"Pennsylvania State University","Shook Jennifer",Statistics,2.1,135
+"Pennsylvania State University","Wede Joshua",Psychology,4.5,134
+"Pennsylvania State University","Simring Eric",Mathematics,4.2,130
+"Pennsylvania State University","Fulton John",Sociology,3.5,128
+"Pennsylvania State University","Woodward Denise","Biological Sciences",4,128
+"Pennsylvania State University","Glantz Ed","Information Sciences & Technology",3.5,127
+"Pennsylvania State University","Fabbri Marc",Mathematics,4.3,126
+"Pennsylvania State University","Chopra Neena",Mathematics,3.2,125
+"Pennsylvania State University","Charlton Jane",Astronomy,3.9,123
+"Pennsylvania State University","Malcos Jennelle","Biological Sciences",4.4,123
+"Pennsylvania State University","Wu Xinli",Engineering,4,121
+"Pennsylvania State University","Henderson Errol","Political Science",2.6,120
+"Pennsylvania State University","Manuel Steve",Communication,4.2,119
+"Pennsylvania State University","Parsons Cindy",Mathematics,3.3,119
+"Pennsylvania State University","Colangelo Augustus",Business,4.2,117
+"Pennsylvania State University","Corneal Sherry","Human Development",4.4,117
+"Pennsylvania State University","Texidor Jose","Criminal Justice",4.3,116
+"Pennsylvania State University","Strauss James","Biological Sciences",3,115
+"Pennsylvania State University","Wooten Jadrian",Economics,4.3,115
+"Pennsylvania State University","Shaffer Steven","Computer Science",2.7,114
+"Pennsylvania State University","Jordan Matthew",Communication,3,113
+"Pennsylvania State University","Benkiran Amine",Mathematics,4.7,111
+"Pennsylvania State University","McAllister Matt",Communication,4.5,110
+"Pennsylvania State University","McGregor Annette",Theater,3.7,110
+"Pennsylvania State University","Kregenow Julia",Astronomy,3,104
+"Pennsylvania State University","Richards Mercedes",Astronomy,4.1,104
+"Pennsylvania State University","Winterich Dave",Marketing,4.5,103
+"Pennsylvania State University","Gray Gary",Finance,3.2,102
+"Pennsylvania State University","lebreton beth",Psychology,4.6,101
+"Pennsylvania State University","Van Hook Stephen",Physics,2.6,101
+"Pennsylvania State University","Yevchak Lecinda",Sociology,2.7,101
+"Pennsylvania State University","Verbanec Al","Computer Science",4.7,100
+"Pennsylvania State University","Coll Katherine",Economics,3.2,99
+"Pennsylvania State University","Wright Suzie",Accounting,2.1,99
+"Pennsylvania State University","Cannon David","Industrial Engineering",2.3,98
+"Pennsylvania State University","Woolridge Randall",Business,3.3,98
+"Pennsylvania State University","Keating Steven","Biological Sciences",3.6,97
+"Pennsylvania State University","Scheuble Laurie",Sociology,3.6,97
+"Pennsylvania State University","Schlow David",Economics,3.5,97
+"Pennsylvania State University","Robicheaux Timothy","Criminal Justice",4.5,95
+"Pennsylvania State University","Forsha Darla",Mathematics,4.4,93
+"Pennsylvania State University","Weinert David J.",Communication,4.8,93
+"Pennsylvania State University","Jensen Linlin",Chemistry,4,92
+"Pennsylvania State University","Marone Chris","Earth Science",4.3,92
+"Pennsylvania State University","Asbury John",Chemistry,2.9,91
+"Pennsylvania State University","Bang Seunghoon",Mathematics,4,91
+"Pennsylvania State University","Kollat Sarah","Human Development",4.3,91
+"Pennsylvania State University","Pierce Greg",Business,3.7,91
+"Pennsylvania State University","Wilkins Melinda",Humanities,4.4,91
+"Pennsylvania State University","Schneider Robert",Theater,4.7,90
+"Pennsylvania State University","Williams Mary Beth",Chemistry,4.3,90
+"Pennsylvania State University","Wysocka Beata",Mathematics,4.1,90
+"Pennsylvania State University","Wang Yanling","Computer Science",1.4,89
+"Pennsylvania State University","Binney James","Political Science",3.6,88
+"Pennsylvania State University","Carter Franklin",Marketing,2.5,88
+"Pennsylvania State University","Handzy Nestor Zen",Mathematics,4.9,87
+"Pennsylvania State University","Wiesner Andrew",Statistics,4.4,87
+"Pennsylvania State University","Narayanan Bharath",Mathematics,3.7,86
+"Pennsylvania State University","Sperling Rayne",Psychology,3.4,86
+"Pennsylvania State University","Geerling Wayne",Economics,4,85
+"Pennsylvania State University","Funk Raymond",Chemistry,3.6,84
+"Pennsylvania State University","Goldstein Dan",Economics,2.8,83
+"Pennsylvania State University","Kellermann Paul",English,4.4,83
+"Pennsylvania State University","Packer Robert","Political Science",2.5,83
+"Pennsylvania State University","Wiesak Kazimierz",Mathematics,4,83
+"Pennsylvania State University","Chang Coupland Jennifer",Marketing,4.2,82
+"Pennsylvania State University","Shook Hellman Jennifer",Mathematics,2.4,82
+"Pennsylvania State University","Crosby Brian","Human Development",4.3,81
+"Pennsylvania State University","Hass Carla","Biological Sciences",3.4,81
+"Pennsylvania State University","Skattebo Amie",Psychology,3.2,81
+"Pennsylvania State University","Tantihkarnchana Pitchayaporn",Economics,2.7,80
+"Pennsylvania State University","Elavsky Charles",Communication,4.2,78
+"Pennsylvania State University","Ketz John",Accounting,2.8,78
+"Pennsylvania State University","McClure Nancy",Accounting,2.3,78
+"Pennsylvania State University","Przybyla Katarzyna",Mathematics,4.7,78
+"Pennsylvania State University","Smith Clair Alexa",Economics,2.8,78
+"Pennsylvania State University","Troyan Michael","Biological Sciences",3.3,78
+"Pennsylvania State University","Pearson Nick",Psychology,4,77
+"Pennsylvania State University","Xu Ping",Mathematics,2.1,77
+"Pennsylvania State University","Arteca Richard",Horticulture,3.3,76
+"Pennsylvania State University","Alley Richard",Geology,4.3,75
+"Pennsylvania State University","Crespi Vincent",Physics,2.5,75
+"Pennsylvania State University","Stachniewicz Christine",Mathematics,3.6,75
+"Pennsylvania State University","Aggon Norman",Business,3.5,74
+"Pennsylvania State University","Johnson Ron",Management,2.9,74
+"Pennsylvania State University","Kagundu Paul",Economics,4.4,74
+"Pennsylvania State University","Masters Christine",Engineering,4.1,74
+"Pennsylvania State University","Rich Sarah","Art History",4.3,74
+"Pennsylvania State University","Abrokwaa Clemente","Women's Studies",3.2,73
+"Pennsylvania State University","Bergstein Andrew",Marketing,3.2,73
+"Pennsylvania State University","Freymiller Lyn",Communication,4.3,73
+"Pennsylvania State University","Hile Cheryl",Mathematics,4.8,73
+"Pennsylvania State University","Lord Bruce",Forestry,1.9,73
+"Pennsylvania State University","Loviscky Greg",Psychology,4.2,73
+"Pennsylvania State University","Mathews Jonathan",Engineering,2.8,72
+"Pennsylvania State University","Mudgett David","Information Science",2.4,72
+"Pennsylvania State University","Silver Stacy",Sociology,4,72
+"Pennsylvania State University","Haas Julian","Health Science",4.8,71
+"Pennsylvania State University","Sheets Erin",Chemistry,2.1,71
+"Pennsylvania State University","Van Der Sluys Lori",Chemistry,2.9,71
+"Pennsylvania State University","Costantino Daniel",Physics,3.7,70
+"Pennsylvania State University","Gray Gary",Engineering,3.9,70
+"Pennsylvania State University","Szczygiel Bonj",Architecture,3.3,70
+"Pennsylvania State University","Miles Mary",English,4.4,69
+"Pennsylvania State University","Milligan Michael",History,3.7,69
+"Pennsylvania State University","Oliver Mary Beth",Communication,4.3,69
+"Pennsylvania State University","Riddle Mary",Psychology,3.1,69
+"Pennsylvania State University","Knapp Colin",Economics,3,68
+"Pennsylvania State University","Santoro Gerry","Information Science",4.5,68
+"Pennsylvania State University","Willyard Matthew",Mathematics,4.7,68
+"Pennsylvania State University","Woolsey Timothy",Spanish,3.7,68
+"Pennsylvania State University","Baker Brian",Sociology,4.3,67
+"Pennsylvania State University","Letellier Travis",Economics,4.5,67
+"Pennsylvania State University","Mazzant Cynthia",English,3.7,67
+"Pennsylvania State University","Colledge Thomas",Engineering,3.6,66
+"Pennsylvania State University","Coutu Stephane",Physics,3.4,66
+"Pennsylvania State University","Margolis Terry",Business,2.3,66
+"Pennsylvania State University","Masters Katie",Chemistry,4.2,66
+"Pennsylvania State University","Stone Misty",Economics,3.2,66
+"Pennsylvania State University","Chelko Francis",Business,3.2,65
+"Pennsylvania State University","Clifford Norman",Economics,3.9,65
+"Pennsylvania State University","Luhman Kevin",Astronomy,4,65
+"Pennsylvania State University","Nye Adam","Political Science",4.3,65
+"Pennsylvania State University","Schaub Mimi",Education,2.5,65
+"Pennsylvania State University","Smith Virginia",English,3.4,65
+"Pennsylvania State University","Suliman Samia",Engineering,3.6,65
+"Pennsylvania State University","Brown Frederick",Psychology,3,64
+"Pennsylvania State University","Garner Aaron",Chemistry,4.9,64
+"Pennsylvania State University","Gasper Karen",Psychology,3.8,64
+"Pennsylvania State University","Hernandez Maria",Spanish,4.6,64
+"Pennsylvania State University","Keiser Joseph",Chemistry,2.2,64
+"Pennsylvania State University","Morello Henry","Comparative Literature",3.4,64
+"Pennsylvania State University","Baumann Zachary","Political Science",3.6,63
+"Pennsylvania State University","French Kirk",Anthropology,4,63
+"Pennsylvania State University","Katz Matthew",Mathematics,3.5,63
+"Pennsylvania State University","Sen Suchismita",Religion,1.9,63
+"Pennsylvania State University","Henderson Benjamin",Communication,4.3,62
+"Pennsylvania State University","Kearney Adrienne",Economics,3,62
+"Pennsylvania State University","Kranc Stan",English,3.1,62
+"Pennsylvania State University","Blackshear Earnest",Psychology,2.1,61
+"Pennsylvania State University","Dayananda Vanitha","Social Science",3.4,61
+"Pennsylvania State University","Glasner Moses",Mathematics,2.5,61
+"Pennsylvania State University","Lutz Heather",Business,1.7,61
+"Pennsylvania State University","Shemanski Donald","Information Science",3.4,61
+"Pennsylvania State University","Walters Elizabeth","Art History",2.8,61
+"Pennsylvania State University","Chilton Sommar",Communication,4.4,60
+"Pennsylvania State University","Jackson Matt",Communication,3.8,60
+"Pennsylvania State University","Letwin Dan",History,3,60
+"Pennsylvania State University","Redford Donald",Classics,3.6,60
+"Pennsylvania State University","Cahoy Dan",Business,4,59
+"Pennsylvania State University","Dann Michael","Biological Sciences",4.6,59
+"Pennsylvania State University","Hopkins John",Physics,3.3,59
+"Pennsylvania State University","Hurvitz Fred",Marketing,3.6,59
+"Pennsylvania State University","Smith Howard","Criminal Justice",4.3,59
+"Pennsylvania State University","Bernhard Michael","Political Science",3,58
+"Pennsylvania State University","Robinson Timothy","Earth Science",3.8,58
+"Pennsylvania State University","Steffensmeier Darrell",Sociology,3.2,58
+"Pennsylvania State University","Vandemeulebroeke Lynn",Mathematics,4.1,58
+"Pennsylvania State University","Wimer David",Psychology,4.4,58
+"Pennsylvania State University","Baum Paul",Mathematics,2.4,57
+"Pennsylvania State University","Fonash Stephen",English,4.7,57
+"Pennsylvania State University","Jivkova Svetla",Mathematics,3.9,57
+"Pennsylvania State University","Knight Shaun",Business,4.8,57
+"Pennsylvania State University","Nelson Keith",Psychology,3,57
+"Pennsylvania State University","Gutierrez Borja",Spanish,4.5,56
+"Pennsylvania State University","Owen Stephen",Finance,4.5,56
+"Pennsylvania State University","Schiano Jeff","Electrical Engineering",3.8,56
+"Pennsylvania State University","Sellers James",Mathematics,4.7,56
+"Pennsylvania State University","Bloom-Steidle Caren",Sociology,4.8,55
+"Pennsylvania State University","Greaves Fiona Mar","Business Law",3,55
+"Pennsylvania State University","Harkness William",Mathematics,2.5,55
+"Pennsylvania State University","Lupo Adam",English,3.8,55
+"Pennsylvania State University","Boven Larry ","Information Sciences  Technology",4.6,54
+"Pennsylvania State University","Elliott Dustin",Psychology,3.7,54
+"Pennsylvania State University","Holtzinger-Jennings Elizabeth",English,4.3,54
+"Pennsylvania State University","Richards Donald",Mathematics,3,54
+"Pennsylvania State University","Sen Ayusman",Chemistry,3.5,54
+"Pennsylvania State University","Thomas Graham","Biological Sciences",2.3,54
+"Pennsylvania State University","Bedell Lori",Communication,3.9,53
+"Pennsylvania State University","Stevens Robert",Psychology,4.7,53
+"Pennsylvania State University","Wilf Peter",Geology,3.9,53
+"Pennsylvania State University","Collins Scott",Accounting,4.1,52
+"Pennsylvania State University","Dube Sibusiwe","African-American Studies",3.4,52
+"Pennsylvania State University","Goldstine Jonathan","Computer Science",1.2,52
+"Pennsylvania State University","Nelson Kimberlyn","Biological Sciences",3,52
+"Pennsylvania State University","Ocneanu Adrian",Mathematics,3.8,52
+"Pennsylvania State University","Puts David",Anthropology,3.8,52
+"Pennsylvania State University","Vasey Adrianne","Biological Sciences",2.8,52
+"Pennsylvania State University","Charnesky John Jason",English,4.5,51
+"Pennsylvania State University","Gruendler Diana",English,4.1,51
+"Pennsylvania State University","Lemke Doug","Political Science",4.2,51
+"Pennsylvania State University","Nese Jon","Earth Science",4.2,51
+"Pennsylvania State University","Welsch Camille-Yvette",English,3.8,51
+"Pennsylvania State University","Baxter Andrew",Mathematics,4.2,50
+"Pennsylvania State University","Bevilacqua Philip",Chemistry,4.5,50
+"Pennsylvania State University","Kornhaber Mindy",Education,2.5,50
+"Pennsylvania State University","Nichols Renea",Communication,2.9,50
+"Pennsylvania State University","Plasterr Jennifer","Computer Science",2.3,50
+"Pennsylvania State University","Ciardullo Robin",Astronomy,3.9,49
+"Pennsylvania State University","Corneal David",Business,2.7,49
+"Pennsylvania State University","Jara Brian","Women's Studies",3.8,49
+"Pennsylvania State University","Kramer Robin",Communication,4.7,49
+"Pennsylvania State University","Kurland Jeffrey",Anthropology,3.1,49
+"Pennsylvania State University","Malinchak Tom",Italian,4,49
+"Pennsylvania State University","Babb David","Earth Science",3,48
+"Pennsylvania State University","Ballora Mark",Music,2.8,48
+"Pennsylvania State University","Crittenden Crista","Behavioral Sciences",4.8,48
+"Pennsylvania State University","Taricani Ellen",Communication,2.1,48
+"Pennsylvania State University","Aungst Stan","Computer Science",2.3,47
+"Pennsylvania State University","Bhat Kabekode","Computer Science",2,47
+"Pennsylvania State University","Castonguay Louis",Psychology,4,47
+"Pennsylvania State University","Erickson Mary",Mathematics,4.4,47
+"Pennsylvania State University","Golder Matthew","Political Science",3.5,47
+"Pennsylvania State University","O'Hara Jessica",English,4.3,47
+"Pennsylvania State University","Parkinson Matt",Engineering,4.5,47
+"Pennsylvania State University","Preciado-Higgins Felisa",Business,4.2,47
+"Pennsylvania State University","Stuchul Dana",Education,3.8,47
+"Pennsylvania State University","Glubokov Andrey",Mathematics,4.8,46
+"Pennsylvania State University","Guettel Jens",History,4.2,46
+"Pennsylvania State University","Haynes Steven","Computer Science",3.6,46
+"Pennsylvania State University","Huddart Steven",Accounting,1.4,46
+"Pennsylvania State University","Jones Arthur",Business,3,46
+"Pennsylvania State University","Prakash Madhu",Education,3,46
+"Pennsylvania State University","Roths Scott",Statistics,3.6,46
+"Pennsylvania State University","Cyr Richard","Biological Sciences",3.2,45
+"Pennsylvania State University","Foley-Defiore Joann","Behavioral Sciences",4.1,45
+"Pennsylvania State University","Gatto Vincenzo",Italian,4,45
+"Pennsylvania State University","Gearhart Roxana",Spanish,4.2,45
+"Pennsylvania State University","Houck Joseph",Chemistry,4.6,45
+"Pennsylvania State University","Kelly James",Mathematics,3.1,45
+"Pennsylvania State University","Olver Dale","Animal Science",4.2,45
+"Pennsylvania State University","Palmer Tamar","Political Science",3.3,45
+"Pennsylvania State University","Welmon Vernis",Business,4.1,45
+"Pennsylvania State University","Kohler Mark",Communication,3.3,44
+"Pennsylvania State University","Passmore Lucas",Engineering,3.8,44
+"Pennsylvania State University","Radovic Ljubisa","Mineral Engineering",1.9,44
+"Pennsylvania State University","Roberts Bee Yan",Economics,3.4,44
+"Pennsylvania State University","Shoemaker Mary",Chemistry,4.2,44
+"Pennsylvania State University","Sirakaya Beatrice","Biological Sciences",3.2,44
+"Pennsylvania State University","Beaver Dan",History,2.3,43
+"Pennsylvania State University","Cimbala John","Mechanical Engineering",4.7,43
+"Pennsylvania State University","Dykstra Sheryl",Chemistry,3.9,43
+"Pennsylvania State University","Fuchs Eric",Communication,4,43
+"Pennsylvania State University","Novack Robert",Business,4.1,43
+"Pennsylvania State University","Packard John",Music,4.3,43
+"Pennsylvania State University","Peters Karen",Communication,3.8,43
+"Pennsylvania State University","Sciegaj Mark","Health Administration",4.3,43
+"Pennsylvania State University","Walters Eli",Mathematics,3.1,43
+"Pennsylvania State University","Wood Jill","Women's Studies",3.7,43
+"Pennsylvania State University","Yapa Lakshman",Geography,3,43
+"Pennsylvania State University","Bartlett Bart",Hospitality,3.7,42
+"Pennsylvania State University","Farooque Mahfuza","Computer Science",1.7,42
+"Pennsylvania State University","Furfaro Joyce",Psychology,2.5,42
+"Pennsylvania State University","Grandey Alicia",Psychology,3.9,42
+"Pennsylvania State University","King Gary","Human Development",2.1,42
+"Pennsylvania State University","Mayers Andrew",Engineering,1.9,42
+"Pennsylvania State University","McEntaffer Jared",Economics,3,42
+"Pennsylvania State University","Rhodes Joe","Communication Arts",4.3,42
+"Pennsylvania State University","Smith Charles",Accounting,3.8,42
+"Pennsylvania State University","Sykes Danny",Chemistry,3.1,42
+"Pennsylvania State University","Tomicek Nanette","Biological Sciences",2.5,42
+"Pennsylvania State University","Topper Leana","Biological Sciences",4.3,42
+"Pennsylvania State University","Crissman-Ishler Jennifer",Education,4.3,41
+"Pennsylvania State University","Dingman Marc","Biological Sciences",4.7,41
+"Pennsylvania State University","Farage Samar",Sociology,4.6,41
+"Pennsylvania State University","Friedenberg Marc","Information Science",3.7,41
+"Pennsylvania State University","Goodwin Mandy",Communication,3.6,41
+"Pennsylvania State University","Holleman Heather",English,4.9,41
+"Pennsylvania State University","Lau Andrew",Engineering,3.7,41
+"Pennsylvania State University","Ocker Rosalie","Information Science",3.8,41
+"Pennsylvania State University","Rosenbaum Aaron",Psychology,2.8,41
+"Pennsylvania State University","Smith Ron",Communication,2.3,41
+"Pennsylvania State University","Youmans Charles",Music,3.8,41
+"Pennsylvania State University","Babitzke Paul","Biological Sciences",3.3,40
+"Pennsylvania State University","Borisov Alexander",Mathematics,3.3,40
+"Pennsylvania State University","Duffey Mike",Kinesiology,2.8,40
+"Pennsylvania State University","Golumbic E. Calvin",Philosophy,4.8,40
+"Pennsylvania State University","Patterson Jill","Health Science",3.3,40
+"Pennsylvania State University","Ramirez Bernal Miguel",Spanish,4.4,40
+"Pennsylvania State University","Rodino-Colocino Michelle",Communication,3.8,40
+"Pennsylvania State University","Schwartz Brandon","Earth Science",5,40
+"Pennsylvania State University","Sees Ralph",Business,3.2,40
+"Pennsylvania State University","Smits Gregory",History,2.5,40
+"Pennsylvania State University","Syrett Bill",Meteorology,3.8,40
+"Pennsylvania State University","Wang James","Computer Science",2.4,40
+"Pennsylvania State University","Arthur Michael","Earth Science",4.4,39
+"Pennsylvania State University","Clark Paul","Labor & Employment Relations",3.9,39
+"Pennsylvania State University","Jansen Jim","Information Science",2.5,39
+"Pennsylvania State University","Lawrence Thomas",History,3.8,39
+"Pennsylvania State University","McKelvey Judith",English,3.9,39
+"Pennsylvania State University","Mizel Ari",Physics,3,39
+"Pennsylvania State University","Moy Carmen",Spanish,2.5,39
+"Pennsylvania State University","Perez Matthew",English,4.2,39
+"Pennsylvania State University","Pontius Todd",Chemistry,4.8,39
+"Pennsylvania State University","Riley Kathleen","Information Systems",3.7,39
+"Pennsylvania State University","Atwill David",History,3.9,38
+"Pennsylvania State University","Barber Greg",Chemistry,3.5,38
+"Pennsylvania State University","Betlyon John","Religious Studies",3.8,38
+"Pennsylvania State University","Bohn Rose",English,2.7,38
+"Pennsylvania State University","Burkholder Robert",English,3.5,38
+"Pennsylvania State University","Giacobe Nicklaus","Information Science",3.2,38
+"Pennsylvania State University","Holdsworth Deryck",Geography,4.3,38
+"Pennsylvania State University","Jordan Heather",English,4.5,38
+"Pennsylvania State University","Lear Benjamin",Chemistry,4.3,38
+"Pennsylvania State University","Lee Dongwon","Computer Science",2.4,38
+"Pennsylvania State University","Mayer Jeffrey",Engineering,3.5,38
+"Pennsylvania State University","Melanson Lisa",Mathematics,4.7,38
+"Pennsylvania State University","Wahl Rob",Sociology,4.6,38
+"Pennsylvania State University","Wang Chenying",Mathematics,2,38
+"Pennsylvania State University","Akritas Michael",Mathematics,2.2,37
+"Pennsylvania State University","Berman Piotr","Computer Science",1.6,37
+"Pennsylvania State University","Calvert Clay",Law,4,37
+"Pennsylvania State University","Dumas Jo",Communication,3.8,37
+"Pennsylvania State University","Galbo Diane",English,2.7,37
+"Pennsylvania State University","Gordon Andras",Engineering,4,37
+"Pennsylvania State University","Hale Robert",Statistics,2.4,37
+"Pennsylvania State University","Halstuk Martin",Communication,3.2,37
+"Pennsylvania State University","Jayakody Rukmalie","Human Development",2.4,37
+"Pennsylvania State University","Le Clair Stephanie",Chemistry,4.1,37
+"Pennsylvania State University","Levy Deena",Languages,4.1,37
+"Pennsylvania State University","Linch Amy","Political Science",2.8,37
+"Pennsylvania State University","Mantz Linda","Human Development",3.4,37
+"Pennsylvania State University","Palma Christopher",Astronomy,3.3,37
+"Pennsylvania State University","Sanchez John",Journalism,4.2,37
+"Pennsylvania State University","Shapiro Keith","Fine Arts",3.3,37
+"Pennsylvania State University","Shen Wen",Mathematics,4.2,37
+"Pennsylvania State University","Babcock Edward",Accounting,4.4,36
+"Pennsylvania State University","Brasseur James","Mechanical Engineering",2.8,36
+"Pennsylvania State University","Dzikowski Dave",Communication,2.5,36
+"Pennsylvania State University","Feldman Ken",Chemistry,3.3,36
+"Pennsylvania State University","Fonseca Fred","Information Science",4.3,36
+"Pennsylvania State University","Hopkins Steve",Music,4.7,36
+"Pennsylvania State University","Hudson Benjamin",History,4,36
+"Pennsylvania State University","Hume Rob",English,3.4,36
+"Pennsylvania State University","Kelly William",Theater,3.2,36
+"Pennsylvania State University","Maddox Jerrold",Art,4.8,36
+"Pennsylvania State University","Marshall Melissa",Communication,4.8,36
+"Pennsylvania State University","Matkovic Ana",Astronomy,2.9,36
+"Pennsylvania State University","McCoy Heather",French,4.2,36
+"Pennsylvania State University","Peek Gregory",History,4,36
+"Pennsylvania State University","Rohrer-Dann Mary","Women's Studies",4.3,36
+"Pennsylvania State University","Stehouwer Richard",Agriculture,2.9,36
+"Pennsylvania State University","Sustersic John","Computer Science",4.5,36
+"Pennsylvania State University","Talmage Gita",Engineering,4,36
+"Pennsylvania State University","Weisner Andy",Statistics,4,36
+"Pennsylvania State University","Ahern Lee",Communication,3.6,35
+"Pennsylvania State University","Babcock Jan",English,4.2,35
+"Pennsylvania State University","Beckerman Stephen",Anthropology,3.4,35
+"Pennsylvania State University","Bollinger J. Martin",Chemistry,4,35
+"Pennsylvania State University","Catanach Wallace",Engineering,2.5,35
+"Pennsylvania State University","Chang Liming","Mechanical Engineering",2.7,35
+"Pennsylvania State University","Dehart Barbara","Biological Sciences",3.3,35
+"Pennsylvania State University","Eghigian Greg",History,4.3,35
+"Pennsylvania State University","Ethier John",Mathematics,4.8,35
+"Pennsylvania State University","Fagan Garrett",Classics,4,35
+"Pennsylvania State University","Haque Aman","Mechanical Engineering",3.7,35
+"Pennsylvania State University","Harvey Irene",Philosophy,2.9,35
+"Pennsylvania State University","Licastro Ralph",Accounting,2.7,35
+"Pennsylvania State University","Maull Karen",Business,4.3,35
+"Pennsylvania State University","Miles James",Finance,4.1,35
+"Pennsylvania State University","Redford Susan",Classics,2.5,35
+"Pennsylvania State University","Sottile Brad","Aerospace Engineering",3.6,35
+"Pennsylvania State University","Anderson Joel",Mathematics,3.5,34
+"Pennsylvania State University","Bagyan Armine",Statistics,2.8,34
+"Pennsylvania State University","Buchannan Patricia",Statistics,2.8,34
+"Pennsylvania State University","Coleman Mary Dean",Nutrition,3,34
+"Pennsylvania State University","Detert James",Business,3.8,34
+"Pennsylvania State University","Fernandez-Medina Nicolas",Spanish,4.5,34
+"Pennsylvania State University","Furer Martin","Computer Science",2.3,34
+"Pennsylvania State University","Gattis Lou",Finance,4.6,34
+"Pennsylvania State University","Howell James Endres","Veterinary Sciences",4,34
+"Pennsylvania State University","Klees Lynn",Nutrition,3.1,34
+"Pennsylvania State University","Linnebur Adriana",Spanish,4.3,34
+"Pennsylvania State University","Lipski John",Spanish,2.2,34
+"Pennsylvania State University","Miraldi Peter",Communication,4.5,34
+"Pennsylvania State University","Samuel Sajay",Accounting,3.5,34
+"Pennsylvania State University","Shriver Mark",Anthropology,2.4,34
+"Pennsylvania State University","Tapia Andrea","Computer Science",2.1,34
+"Pennsylvania State University","Barbieri Anthony",Communication,3.4,33
+"Pennsylvania State University","Dardis Frank",Communication,4,33
+"Pennsylvania State University","Fomitchev Max","Computer Science",3.3,33
+"Pennsylvania State University","Hair Steven",Mathematics,4.1,33
+"Pennsylvania State University","Hannan John","Computer Science",3.5,33
+"Pennsylvania State University","Jalowitz Alan",English,3.7,33
+"Pennsylvania State University","Kleit Andrew",Economics,2.1,33
+"Pennsylvania State University","Lynch Judith",Spanish,3.6,33
+"Pennsylvania State University","Marsh Eric",Engineering,4.5,33
+"Pennsylvania State University","Minbiole John",Communication,4.8,33
+"Pennsylvania State University","Palmer Todd","Materials Engineering",3.1,33
+"Pennsylvania State University","Pauley Laura",Engineering,3.8,33
+"Pennsylvania State University","Philtron Daisy",Statistics,3.9,33
+"Pennsylvania State University","Ahlkvist Jarl","Not Specified",2.5,32
+"Pennsylvania State University","Brockopp Jonathan",Theology,3.5,32
+"Pennsylvania State University","Chod Suzanne","Political Science",3.7,32
+"Pennsylvania State University","Egan Beth","Hotel & Restaurant Management",2.3,32
+"Pennsylvania State University","Labrin Roberto",Spanish,4.3,32
+"Pennsylvania State University","Liu Peng","Information Science",3.8,32
+"Pennsylvania State University","Massoglia Michael",Sociology,4.2,32
+"Pennsylvania State University","Morse Michael","Physical Ed",4.5,32
+"Pennsylvania State University","Nickel Jolene",Kinesiology,4.7,32
+"Pennsylvania State University","Romer Megan",Statistics,2.2,32
+"Pennsylvania State University","Rubio Gonzalo","Classical & Medieval Studies",4.6,32
+"Pennsylvania State University","Schmid Kyle",Chemistry,4.7,32
+"Pennsylvania State University","Waselinko Lorena",English,3.8,32
+"Pennsylvania State University","Yaari Monique",French,2.1,32
+"Pennsylvania State University","Backenstoe Thomas E.","Behavioral Sciences",4.3,31
+"Pennsylvania State University","Boal Amie",Chemistry,3,31
+"Pennsylvania State University","Carleton Andrew",Geography,3,31
+"Pennsylvania State University","Carr-Chellman Davin",Philosophy,3.8,31
+"Pennsylvania State University","Frieden Rob",Communication,3.2,31
+"Pennsylvania State University","Gyekis Joseph","Behavioral Sciences",4.2,31
+"Pennsylvania State University","Hayot Eric","Comparative Literature",4.3,31
+"Pennsylvania State University","Hudson Eric",Physics,4.1,31
+"Pennsylvania State University","Ishler Jennifer","Human Development",4.2,31
+"Pennsylvania State University","King Kyle",English,4.3,31
+"Pennsylvania State University","Kleban Patty","Recreation, Parks, & Tourism",3.5,31
+"Pennsylvania State University","Kulkarni Anil","Mechanical Engineering",3.7,31
+"Pennsylvania State University","List Alexandra",Education,3.1,31
+"Pennsylvania State University","McDaniel Patrick","Computer Science",3.3,31
+"Pennsylvania State University","Meloy Meg",Marketing,2.8,31
+"Pennsylvania State University","Melton Robert",Engineering,4.8,31
+"Pennsylvania State University","Menard Kim","Criminal Justice",3.3,31
+"Pennsylvania State University","Risley Ford",Communication,3.3,31
+"Pennsylvania State University","Short Linda","Jewish Studies",3.2,31
+"Pennsylvania State University","Silver Eric",Sociology,4.9,31
+"Pennsylvania State University","Simin Timothy",Finance,4,31
+"Pennsylvania State University","Sodeinde Ola","Biological Sciences",3.5,31
+"Pennsylvania State University","Sternlieb Lisa",Literature,4.2,31
+"Pennsylvania State University","Stienon Mathieu",Mathematics,3,31
+"Pennsylvania State University","Todd Carolyn",Marketing,3.2,31
+"Pennsylvania State University","Todt Heiko",Mathematics,4.2,31
+"Pennsylvania State University","Tyworth Michael",Management,3.9,31
+"Pennsylvania State University","Wade Aissa",Mathematics,3.1,31
+"Pennsylvania State University","Wray Linda","Biological Sciences",4,31
+"Pennsylvania State University","Zabel Craig","Art History",4.6,31
+"Pennsylvania State University","Zelenberg Aleksey",Mathematics,3.8,31
+"Pennsylvania State University","Berube Michael",English,3.9,30
+"Pennsylvania State University","Bilger Paul",Philosophy,4.1,30
+"Pennsylvania State University","Bundy O. Richard",Music,4.8,30
+"Pennsylvania State University","Cather David",Insurance,3.8,30
+"Pennsylvania State University","Cavallero Jon",Communication,4.7,30
+"Pennsylvania State University","Cole Pamela",Latin,3.2,30
+"Pennsylvania State University","Curran Brian","Art History",3.5,30
+"Pennsylvania State University","Dawood Khytam",Psychology,3.9,30
+"Pennsylvania State University","Djelal Juana",Literature,4.2,30
+"Pennsylvania State University","Dobbs James",Psychology,4.9,30
+"Pennsylvania State University","Fukuyama Junichiro","Computer Science",2,30
+"Pennsylvania State University","Gaertner Carol",Mathematics,4,30
+"Pennsylvania State University","Guysinski Misha",Mathematics,4.3,30
+"Pennsylvania State University","Holt Harry","Health Administration",4,30
+"Pennsylvania State University","Huff David J",Business,4.3,30
+"Pennsylvania State University","Hunter David",Statistics,4.6,30
+"Pennsylvania State University","Joudrey Tom",English,4.4,30
+"Pennsylvania State University","Kuskowski Ann",Communication,3.8,30
+"Pennsylvania State University","Leblond Louis",Physics,3.3,30
+"Pennsylvania State University","Lesk Arthur","Biological Sciences",2.3,30
+"Pennsylvania State University","Lumpkins Charles","African-American Studies",3.3,30
+"Pennsylvania State University","Mallouk Thomas",Chemistry,4.4,30
+"Pennsylvania State University","Mitra Prasenjit","Information Science",2.5,30
+"Pennsylvania State University","Vescio Theresa",Psychology,4.4,30
+"Pennsylvania State University","Zhong Bu",Communication,3.9,30
+"Pennsylvania State University","Austin Kimberly",Business,4.8,29
+"Pennsylvania State University","Booker Squire","Biological Sciences",4,29
+"Pennsylvania State University","Bralower Timothy","Earth Science",3.7,29
+"Pennsylvania State University","Brasfield James",English,4,29
+"Pennsylvania State University","Chandler Curt",Communication,4,29
+"Pennsylvania State University","Felson Richard",Sociology,3,29
+"Pennsylvania State University","Gulati Rishab","Computer Science",5,29
+"Pennsylvania State University","Harmonosky Catherine","Industrial Engineering",1.9,29
+"Pennsylvania State University","High Andrew",Communication,4.7,29
+"Pennsylvania State University","Jaeger Trent","Computer Science",2.7,29
+"Pennsylvania State University","Kankam Kwame",Statistics,3.1,29
+"Pennsylvania State University","Khmelkova Galina",Russian,3.9,29
+"Pennsylvania State University","King Brian",Geography,4.1,29
+"Pennsylvania State University","Kubicki James","Earth Science",3.5,29
+"Pennsylvania State University","McCarter Roger","Biological Sciences",4.3,29
+"Pennsylvania State University","McNellis Timothy",Agriculture,4.7,29
+"Pennsylvania State University","Read Andrew",Entomology,3.8,29
+"Pennsylvania State University","Sherman Martha",Sociology,4.5,29
+"Pennsylvania State University","Sigurdsson Steinn",Astronomy,4,29
+"Pennsylvania State University","Smitka Michael",Physics,1.9,29
+"Pennsylvania State University","Sysoeva Inna",Mathematics,3.9,29
+"Pennsylvania State University","Valentin-Pagano Lyvia",Spanish,4,29
+"Pennsylvania State University","Villvendas Yasmin",Languages,4.5,29
+"Pennsylvania State University","Wheeler Stephen",Classics,3.2,29
+"Pennsylvania State University","Yarnal Careen","Social Science",3.9,29
+"Pennsylvania State University","Almeida David","Human Development",4.2,28
+"Pennsylvania State University","Axtell Michael","Biological Sciences",3.5,28
+"Pennsylvania State University","Bagby John","Information Science",3,28
+"Pennsylvania State University","Choi Kyusun","Computer Science",3.3,28
+"Pennsylvania State University","Cremona Marzia",Statistics,3.6,28
+"Pennsylvania State University","Eissenstat Brenda","Health Science",3.5,28
+"Pennsylvania State University","Freivalds Andris","Industrial Engineering",3.6,28
+"Pennsylvania State University","Gall Oren","Computer Science",3.7,28
+"Pennsylvania State University","Halverson Justin","Comparative Literature",4,28
+"Pennsylvania State University","Imamkhodjaeva Oidinposha",History,3.7,28
+"Pennsylvania State University","Lautsch Pamela","Computer Science",2.9,28
+"Pennsylvania State University","Muir Allen",Mathematics,5,28
+"Pennsylvania State University","Ritchie Chris",Communication,4.6,28
+"Pennsylvania State University","Rummel Sheryl Ann",Chemistry,4,28
+"Pennsylvania State University","Velegol Darrell","Chemical Engineering",3.8,28
+"Pennsylvania State University","Wildes Vivienne","Hotel & Restaurant Management",4.4,28
+"Pennsylvania State University","Azar Sandra",Psychology,2.4,27
+"Pennsylvania State University","Bode-Lang Andrew",English,4.8,27
+"Pennsylvania State University","Brooks Jason",Humanities,4.1,27
+"Pennsylvania State University","Campbell William",Chemistry,4.3,27
+"Pennsylvania State University","Cardenas Rodrigo",Mathematics,3.2,27
+"Pennsylvania State University","Cleveland Hobart","Human Development",3.5,27
+"Pennsylvania State University","Cowen Douglas",Physics,3,27
+"Pennsylvania State University","Dreschel Nancy","Animal Science",4.6,27
+"Pennsylvania State University","Haigh Michel",Communication,4,27
+"Pennsylvania State University","Kasting James","Earth Science",3.4,27
+"Pennsylvania State University","Kremer Gul",Engineering,4.2,27
+"Pennsylvania State University","Mandzik Amanda",Economics,3.7,27
+"Pennsylvania State University","McClennen Sophia","Women's Studies",4,27
+"Pennsylvania State University","Nixon Tracy","Biological Sciences",2,27
+"Pennsylvania State University","Passmore Amanda",English,2.9,27
+"Pennsylvania State University","Pusateri Michael",Engineering,2.2,27
+"Pennsylvania State University","Reggio Anthony","Electrical Engineering",3.5,27
+"Pennsylvania State University","Schneider Donald",Astronomy,3.8,27
+"Pennsylvania State University","Shannon Claire",English,4.1,27
+"Pennsylvania State University","Shaw-Colyer Eugene",Classics,3.9,27
+"Pennsylvania State University","Solo Christopher",Business,4.7,27
+"Pennsylvania State University","Thomas Hoben",Psychology,1.3,27
+"Pennsylvania State University","Wiggins Emily",Spanish,4.2,27
+"Pennsylvania State University","Almekkawy Mohamed","Computer Science",4.1,26
+"Pennsylvania State University","Constantino Daniel",Physics,3,26
+"Pennsylvania State University","Garnier Solange",French,4.6,26
+"Pennsylvania State University","Guerrero Jose Antonio",Spanish,3.6,26
+"Pennsylvania State University","Haley Adam",English,4.8,26
+"Pennsylvania State University","Hamilton Katherine","Information Sciences  Technology",2.5,26
+"Pennsylvania State University","Hesse Paula",Hebrew,2.3,26
+"Pennsylvania State University","Kalsbeek James",Architecture,3.5,26
+"Pennsylvania State University","Mark Vera",French,3.5,26
+"Pennsylvania State University","Matsoukas Themis","Chemical Engineering",3.9,26
+"Pennsylvania State University","McCune Heather","Art History",4,26
+"Pennsylvania State University","Nanayakkara Basil",Mathematics,4,26
+"Pennsylvania State University","North Marcy",English,3.8,26
+"Pennsylvania State University","Patterson Randen","Biological Sciences",1.6,26
+"Pennsylvania State University","Richards Sam","Select department",4.1,26
+"Pennsylvania State University","Samarth Manini",English,4.3,26
+"Pennsylvania State University","St.Pierre Tanja",Sociology,1.8,26
+"Pennsylvania State University","Stark Ryan",English,4.8,26
+"Pennsylvania State University","Turner Leslie",Communication,3.8,26
+"Pennsylvania State University","Webster David",Anthropology,3.4,26
+"Pennsylvania State University","Wretzel Josh",Philosophy,3.6,26
+"Pennsylvania State University","Baker Eleanor",English,2.5,25
+"Pennsylvania State University","Benesi Alan",Chemistry,2.3,25
+"Pennsylvania State University","Benjamin Alan",Sociology,4.5,25
+"Pennsylvania State University","Bice David",Geology,3.8,25
+"Pennsylvania State University","Boehr David",Chemistry,4,25
+"Pennsylvania State University","Boffemmyer Mindy","Women's Studies",4.2,25
+"Pennsylvania State University","Cleveland John",Mathematics,2.6,25
+"Pennsylvania State University","Costello Megan","Information Sciences  Technology",3,25
+"Pennsylvania State University","Davis Brian",Finance,4.2,25
+"Pennsylvania State University","Dumitrescu Florin",Mathematics,3.3,25
+"Pennsylvania State University","Heller Don","Computer Science",3.6,25
+"Pennsylvania State University","Johnson Patricia",Anthropology,2.7,25
+"Pennsylvania State University","Kelly Shawnee",Nutrition,4.2,25
+"Pennsylvania State University","Killebrew Ann",History,2.7,25
+"Pennsylvania State University","Kossan Constance","Communication Disorders",4.6,25
+"Pennsylvania State University","Kumara Soundar","Industrial Engineering",3.8,25
+"Pennsylvania State University","Love Nancy","Political Science",4,25
+"Pennsylvania State University","Maltz Schejter Judy",Communication,2.5,25
+"Pennsylvania State University","Miller Andrew",Engineering,4.2,25
+"Pennsylvania State University","Mills Elizabeth",Communication,3,25
+"Pennsylvania State University","Milner George",Anthropology,4.2,25
+"Pennsylvania State University","Moore John",English,4,25
+"Pennsylvania State University","Olorunnisola Anthony",Film,3.2,25
+"Pennsylvania State University","Petrick Irene","Information Science",4.2,25
+"Pennsylvania State University","Pfau John","Physical Ed",3.4,25
+"Pennsylvania State University","Richards Robert",Communication,4.4,25
+"Pennsylvania State University","Rochette Erick",Anthropology,3.4,25
+"Pennsylvania State University","Roger Gregg",English,4.5,25
+"Pennsylvania State University","Rosenbaum David",Psychology,4.8,25
+"Pennsylvania State University","Roux Marcus",Mathematics,3.6,25
+"Pennsylvania State University","Spaeth Peter",Mathematics,3.4,25
+"Pennsylvania State University","Stine Michele","Biological Sciences",3.5,25
+"Pennsylvania State University","Strohm Susan",Communication,4.2,25
+"Pennsylvania State University","Tu David","Biological Sciences",2.8,25
+"Pennsylvania State University","Tuthill Jonathan",Agriculture,4.5,25
+"Pennsylvania State University","Ventura Marta",Languages,4.3,25
+"Pennsylvania State University","Webb Kelly","Human Development",3.8,25
+"Pennsylvania State University","Yeh Kuo-Chan (martin)","Computer Science",2.6,25
+"Pennsylvania State University","Agler David",Philosophy,4.5,24
+"Pennsylvania State University","Arnold Steven",Mathematics,1.4,24
+"Pennsylvania State University","Brindley Erica",History,3.8,24
+"Pennsylvania State University","Byrne Christopher",Mathematics,3.4,24
+"Pennsylvania State University","Cai Guoray","Computer Science",3.5,24
+"Pennsylvania State University","Cody Thomas",Music,4.6,24
+"Pennsylvania State University","Conejo-Lopez Griselda","Computer Science",3.6,24
+"Pennsylvania State University","Coraor Lee","Computer Science",4.6,24
+"Pennsylvania State University","Divinsky Anna",Art,2.3,24
+"Pennsylvania State University","Droege Paula",Philosophy,4.2,24
+"Pennsylvania State University","Durrenberger Paul",Anthropology,2.9,24
+"Pennsylvania State University","Enis Charles",Accounting,3.6,24
+"Pennsylvania State University","Gibble Kurt",Physics,2,24
+"Pennsylvania State University","Gottschall Jinger",Kinesiology,3.5,24
+"Pennsylvania State University","Gouran Dennis",Communication,3,24
+"Pennsylvania State University","Holtzinger Albert",English,3.1,24
+"Pennsylvania State University","Hoover Kelli",Entomology,4,24
+"Pennsylvania State University","Howell Paul",Engineering,2.9,24
+"Pennsylvania State University","Jensen Carolyn","Biological Sciences",4.1,24
+"Pennsylvania State University","Koslicki David",Mathematics,4.8,24
+"Pennsylvania State University","Lafreniere Lucas",Psychology,4.8,24
+"Pennsylvania State University","Marshall Ashley",English,3.9,24
+"Pennsylvania State University","Martí-Peña Guadalupe",Spanish,3.7,24
+"Pennsylvania State University","Matthews Jonathan","Environmental Engineering",2.6,24
+"Pennsylvania State University","Mitchell Jack",Engineering,3.5,24
+"Pennsylvania State University","Moses Wilson",History,2.5,24
+"Pennsylvania State University","Peters Genevieve",Economics,2.1,24
+"Pennsylvania State University","Petrunin Anton",Mathematics,2.3,24
+"Pennsylvania State University","Ross Shawna",English,4.7,24
+"Pennsylvania State University","Strauss Linda C",Statistics,2.4,24
+"Pennsylvania State University","Tibbetts Stacy",English,4.8,24
+"Pennsylvania State University","Towart Carolyn",Spanish,2.3,24
+"Pennsylvania State University","Acimovic Jason",Business,4.2,23
+"Pennsylvania State University","Anandakrishnan Sridhar",Geology,3.3,23
+"Pennsylvania State University","Anesko Michael",English,2.9,23
+"Pennsylvania State University","Ausherman James",English,4.4,23
+"Pennsylvania State University","Cotner Carl",Mathematics,3.5,23
+"Pennsylvania State University","Curtis Wayne","Chemical Engineering",3,23
+"Pennsylvania State University","Doyle Richard",English,4.3,23
+"Pennsylvania State University","Ebitz David",Art,4.4,23
+"Pennsylvania State University","Engelder Terry",Geology,2.7,23
+"Pennsylvania State University","Eubanks Charlotte","Comparative Literature",4.7,23
+"Pennsylvania State University","Gersie Wayne",Counseling,4.3,23
+"Pennsylvania State University","Graham Jacob","Information Science",3.5,23
+"Pennsylvania State University","Grecco Stephen",English,2.8,23
+"Pennsylvania State University","Henock Louis",Accounting,2.6,23
+"Pennsylvania State University","Ivanits Linda",Russian,3.3,23
+"Pennsylvania State University","Jallow Abdou","Information Systems",2.1,23
+"Pennsylvania State University","Kaye Anthony",History,2.5,23
+"Pennsylvania State University","Kransilnikova Maria","Biological Sciences",2.7,23
+"Pennsylvania State University","Lacoe Jodi",Architecture,2.3,23
+"Pennsylvania State University","Laine Jason",Italian,4,23
+"Pennsylvania State University","Lee Jin","Political Science",3,23
+"Pennsylvania State University","Mahar Jan","Computer Science",3.6,23
+"Pennsylvania State University","Milner Scott","Chemical Engineering",2.2,23
+"Pennsylvania State University","Newhouse Leonie","African-American Studies",1.6,23
+"Pennsylvania State University","Oishi Hachiro",Kinesiology,3.4,23
+"Pennsylvania State University","Plutzer Eric","Political Science",3.3,23
+"Pennsylvania State University","Purao Sandeep","Information Science",2.8,23
+"Pennsylvania State University","Sellers Mary ",English,4.8,23
+"Pennsylvania State University","Showalter Scott",Chemistry,3.1,23
+"Pennsylvania State University","Shumway Durland",Statistics,2.3,23
+"Pennsylvania State University","Smith Elizabeth","Art History",3.3,23
+"Pennsylvania State University","Toth Bobbi",Communication,2.3,23
+"Pennsylvania State University","Ucak-Astarlioglu Mine",Chemistry,3.1,23
+"Pennsylvania State University","Ungar Chuck",Communication,4.6,23
+"Pennsylvania State University","Whim Matthew","Biological Sciences",3.6,23
+"Pennsylvania State University","Wolf Peter",Philosophy,3.1,23
+"Pennsylvania State University","Aggleton Derek",Philosophy,3.5,22
+"Pennsylvania State University","Alvis-Ruiz Erin",Spanish,3.5,22
+"Pennsylvania State University","Banyaga Augustin",Mathematics,2.1,22
+"Pennsylvania State University","Bonafini Fernanda",Mathematics,3,22
+"Pennsylvania State University","Brower Margaret",Management,2,22
+"Pennsylvania State University","Brown Josh",German,4.8,22
+"Pennsylvania State University","Casper Gretchen","Political Science",3.3,22
+"Pennsylvania State University","Catchen Gary",Engineering,2.8,22
+"Pennsylvania State University","Costanzo Francesco",Engineering,4.3,22
+"Pennsylvania State University","Crisp Tyrone",Mathematics,4.3,22
+"Pennsylvania State University","Crum Robert",Accounting,2.8,22
+"Pennsylvania State University","Daley Christina","Select department",4.9,22
+"Pennsylvania State University","Dawson Maria","Health Administration",3,22
+"Pennsylvania State University","Domico John","Computer Science",3.2,22
+"Pennsylvania State University","Dove Donna","Physical Ed",4.1,22
+"Pennsylvania State University","Dowler Lorraine",Geography,3.8,22
+"Pennsylvania State University","Dunn James",Agriculture,3,22
+"Pennsylvania State University","Eckstein Jacob",Communication,3.6,22
+"Pennsylvania State University","Elsworth Derek","Not Specified",3.1,22
+"Pennsylvania State University","Forster Peter","Political Science",3.3,22
+"Pennsylvania State University","Francis Lori","Behavioral Sciences",3.3,22
+"Pennsylvania State University","Graham Lonnie","Graphic Arts",4.3,22
+"Pennsylvania State University","Hinkelmann Christoph",Finance,3.5,22
+"Pennsylvania State University","Hogan Lisa","Women's Studies",2.5,22
+"Pennsylvania State University","Isham Matthew",History,3.8,22
+"Pennsylvania State University","Lenahan Patrick",Engineering,2.9,22
+"Pennsylvania State University","Levin Deborah",Engineering,1.7,22
+"Pennsylvania State University","Li Luen-Chau",Mathematics,3,22
+"Pennsylvania State University","Lin Dennis",Business,3.5,22
+"Pennsylvania State University","McDonald Faith",English,3.3,22
+"Pennsylvania State University","Mikaelian Irina",Russian,3,22
+"Pennsylvania State University","Monk Pamela",English,3.8,22
+"Pennsylvania State University","Myers David","Political Science",3.5,22
+"Pennsylvania State University","Neff Glenn",Business,4.6,22
+"Pennsylvania State University","Palmer Glenn","Political Science",2.9,22
+"Pennsylvania State University","Prosek Robert","Communication Disorders",2.5,22
+"Pennsylvania State University","Reardon Carol",History,4.1,22
+"Pennsylvania State University","Riggio Salvatore","Electrical Engineering",2.8,22
+"Pennsylvania State University","Riofrio John","Ethnic Studies",4.2,22
+"Pennsylvania State University","Salvia Anthony David","Electrical Engineering",4.5,22
+"Pennsylvania State University","Schmierbach Mike",Communication,2.3,22
+"Pennsylvania State University","Thomas Robin","Art History",3.9,22
+"Pennsylvania State University","Wanner Adrian",German,4,22
+"Pennsylvania State University","Weinreb Steve",Chemistry,3.7,22
+"Pennsylvania State University","Wolszczan Alexander",Astronomy,2.8,22
+"Pennsylvania State University","Wright Bill","Physical Ed",2.6,22
+"Pennsylvania State University","Xiong Shawn","Biological Sciences",4.3,22
+"Pennsylvania State University","Yee Ae",Mathematics,3.8,22
+"Pennsylvania State University","Zach David",Mathematics,4.2,22
+"Pennsylvania State University","Anghelcev George",Communication,4.2,21
+"Pennsylvania State University","Battaglia Jo",Mathematics,4.7,21
+"Pennsylvania State University","Beebee Thomas","Comparative Literature",3.2,21
+"Pennsylvania State University","Beierlein James",Agriculture,3.5,21
+"Pennsylvania State University","Boothby Thomas",Engineering,2.7,21
+"Pennsylvania State University","Brennan Sean","Mechanical Engineering",4.5,21
+"Pennsylvania State University","Bright K.D.",English,4.4,21
+"Pennsylvania State University","Brownson Jeffrey","Mineral Engineering",3.9,21
+"Pennsylvania State University","Cheney Patrick",English,3.2,21
+"Pennsylvania State University","Cross Gary",History,3.3,21
+"Pennsylvania State University","Curling Michelle",Accounting,3.3,21
+"Pennsylvania State University","Deforest Russell",Mathematics,3.5,21
+"Pennsylvania State University","Devon Richard",Engineering,4.1,21
+"Pennsylvania State University","Feineman Maureen","Earth Science",2.9,21
+"Pennsylvania State University","Flynn Ryan",Mathematics,4.5,21
+"Pennsylvania State University","Gamson David",Education,3.5,21
+"Pennsylvania State University","Hancock Will",Engineering,3.1,21
+"Pennsylvania State University","Hayes Jeff",Psychology,4,21
+"Pennsylvania State University","Hirth Ken",Anthropology,4.2,21
+"Pennsylvania State University","Hruschka John",English,4.1,21
+"Pennsylvania State University","Jayakar Krishna",Communication,4,21
+"Pennsylvania State University","King Frank","Health Administration",3,21
+"Pennsylvania State University","Kothe Gregory",Biochemistry,2.2,21
+"Pennsylvania State University","Laman Jeffrey",Engineering,3.1,21
+"Pennsylvania State University","Leve Brad",Management,3.8,21
+"Pennsylvania State University","Levy Kenneth",Psychology,3.3,21
+"Pennsylvania State University","Linn Suzanna","Political Science",3,21
+"Pennsylvania State University","Malcolm Glenna","Biological Sciences",1.6,21
+"Pennsylvania State University","Manning Keefe",Engineering,2.8,21
+"Pennsylvania State University","Mannion Marea",Communication,3,21
+"Pennsylvania State University","Munn Mark",Classics,3.8,21
+"Pennsylvania State University","Osborne-Carroll Kristen",English,2.4,21
+"Pennsylvania State University","Parizek Katarin",Art,2.6,21
+"Pennsylvania State University","Partyka Jennifer",Art,2.8,21
+"Pennsylvania State University","Raman Veena",Communication,4,21
+"Pennsylvania State University","Redding Jonathan","Human Development",4,21
+"Pennsylvania State University","Rosenberger James",Statistics,1.7,21
+"Pennsylvania State University","Skucek Alex",Languages,4.6,21
+"Pennsylvania State University","Skukalek John",Mathematics,3.5,21
+"Pennsylvania State University","Smith Eric",Law,4.8,21
+"Pennsylvania State University","Sommer Henry",Engineering,4,21
+"Pennsylvania State University","Sylvester Kevin","Information Sciences  Technology",3.6,21
+"Pennsylvania State University","Urgaonkar Bhuvan","Computer Science",3.6,21
+"Pennsylvania State University","Vaserstein Leonid",Mathematics,2,21
+"Pennsylvania State University","Ventura Mary Anne",Nursing,3.8,21
+"Pennsylvania State University","Walker Amber",Communication,4.3,21
+"Pennsylvania State University","Whitehead Paul","Labor & Employment Relations",4.6,21
+"Pennsylvania State University","Allen Patrick",English,4.5,20
+"Pennsylvania State University","Awadelkarim Osama",Engineering,3.7,20
+"Pennsylvania State University","Baxter Ryan",Geography,4,20
+"Pennsylvania State University","Blum Hester",English,4.3,20
+"Pennsylvania State University","Brown Nate",Mathematics,4.4,20
+"Pennsylvania State University","Cusumano Joseph","Engineering, Science, & Mechanics",3.9,20
+"Pennsylvania State University","Dalola Amanda",French,4.9,20
+"Pennsylvania State University","Dyreson Mark",Kinesiology,3.3,20
+"Pennsylvania State University","Elliot Lyn",Film,2.9,20
+"Pennsylvania State University","Feigelson Eric",Astronomy,2.3,20
+"Pennsylvania State University","Fichthorn Kristen","Chemical Engineering",2.5,20
+"Pennsylvania State University","Fisher Mark",Philosophy,3,20
+"Pennsylvania State University","Gough Mark","Labor  Employment Relations",4.1,20
+"Pennsylvania State University","Green Michael",Chemistry,3.2,20
+"Pennsylvania State University","Guay Terrence",Business,3.8,20
+"Pennsylvania State University","Han Jian",Mathematics,1.5,20
+"Pennsylvania State University","Haspel Paul",English,4.4,20
+"Pennsylvania State University","Houghton Charlotte","Art History",3.9,20
+"Pennsylvania State University","Jenkins Lisa",Music,3.8,20
+"Pennsylvania State University","Johnstone Christopher",Communication,2.9,20
+"Pennsylvania State University","Karpyn Zuleima","Environmental Engineering",4.3,20
+"Pennsylvania State University","Kesidis George","Computer Science",3,20
+"Pennsylvania State University","Klein Laura","Biological Sciences",3.5,20
+"Pennsylvania State University","Kramer Lauren",Kinesiology,4,20
+"Pennsylvania State University","Lake Taylor","Communication Arts",4,20
+"Pennsylvania State University","Luscher Bernhard","Biological Sciences",4,20
+"Pennsylvania State University","Major Mark","Political Science",4.6,20
+"Pennsylvania State University","Markle Ronald","Biological Sciences",2.9,20
+"Pennsylvania State University","Mazzucato Anna",Mathematics,3,20
+"Pennsylvania State University","Mohammed Susan",Psychology,4,20
+"Pennsylvania State University","Nielsen Erik",Sociology,3.9,20
+"Pennsylvania State University","Ochoa John",Spanish,3.5,20
+"Pennsylvania State University","Osada Natsuko",Japanese,4.6,20
+"Pennsylvania State University","Pawelczyk James",Kinesiology,3.9,20
+"Pennsylvania State University","Platz Ryan",Spanish,4.7,20
+"Pennsylvania State University","Pollock Ryan",Philosophy,4.2,20
+"Pennsylvania State University","Roberts Joseph",Mathematics,4.5,20
+"Pennsylvania State University","Schaak Raymond",Chemistry,4.5,20
+"Pennsylvania State University","Schaeffer Stephen","Biological Sciences",2.9,20
+"Pennsylvania State University","Schejter Amit",Communication,2.9,20
+"Pennsylvania State University","Schienke Erich",Engineering,4.5,20
+"Pennsylvania State University","Schulte Pat",Mathematics,4.5,20
+"Pennsylvania State University","Sonak Brian",Mathematics,2.7,20
+"Pennsylvania State University","Tybout James",Economics,2.4,20
+"Pennsylvania State University","Wharton Mark","Electrical Engineering",3.5,20
+"Pennsylvania State University","Wiley Casey",English,4.3,20
+"Pennsylvania State University","Williams Jason",Psychology,2.1,20
+"Pennsylvania State University","Woosley Tim",Languages,4.8,20
+"Pennsylvania State University","Yarwood Michelle",Psychology,3,20
+"Pennsylvania State University","Alvis-Ruiz Carlos",Spanish,4.2,19
+"Pennsylvania State University","Anderson Martha","Physical Ed",4,19
+"Pennsylvania State University","Andris Clio",Geography,4,19
+"Pennsylvania State University","Baptiste Ian",Education,2.4,19
+"Pennsylvania State University","Barry Theresa","Human Development",3.2,19
+"Pennsylvania State University","Borkowska Alison",Nutrition,3.5,19
+"Pennsylvania State University","Bose Mallika","Landscape Architecture & Regional Planning",2.3,19
+"Pennsylvania State University","Brady Elizabeth",Communication,4.5,19
+"Pennsylvania State University","Brown Jaime",Economics,4.3,19
+"Pennsylvania State University","Bundro Richard",Finance,4,19
+"Pennsylvania State University","Connolly-Ahern Colleen",Communication,2.1,19
+"Pennsylvania State University","Deere Michael",Philosophy,4.2,19
+"Pennsylvania State University","Drais-Parrillo Alicia",Psychology,3.5,19
+"Pennsylvania State University","Duffey Michele","Health Science",4.5,19
+"Pennsylvania State University","Eberly Rosa",English,3.6,19
+"Pennsylvania State University","Eburne Jonathan",Humanities,4,19
+"Pennsylvania State University","Einziger Hillary",Mathematics,3,19
+"Pennsylvania State University","Fedors Jonathan",English,3.1,19
+"Pennsylvania State University","Frank Russel",Communication,2.5,19
+"Pennsylvania State University","Ginzberg Lori",History,3.7,19
+"Pennsylvania State University","Gong Guojin",Accounting,2.8,19
+"Pennsylvania State University","Hanna Chad",Physics,2.5,19
+"Pennsylvania State University","Johnson Carolyn","Human Development",4,19
+"Pennsylvania State University","Kibelbek Jonas",Mathematics,4.7,19
+"Pennsylvania State University","Koch Patricia","Health Science",4,19
+"Pennsylvania State University","Lamb Matthew","Communication Arts",3.5,19
+"Pennsylvania State University","Lehtihet Amine",Engineering,1.6,19
+"Pennsylvania State University","Lehtonen Jonathan",English,4.2,19
+"Pennsylvania State University","Lentz Tony",Communication,1.7,19
+"Pennsylvania State University","Linzell Daniel",Engineering,3.6,19
+"Pennsylvania State University","Ma Lina",Mathematics,3.6,19
+"Pennsylvania State University","Mateer George",Economics,4.4,19
+"Pennsylvania State University","Mathews Myrta",Spanish,3.6,19
+"Pennsylvania State University","Miller Carol","Communication Disorders",3,19
+"Pennsylvania State University","Najjar Raymond",Meteorology,3,19
+"Pennsylvania State University","Novakovich Jeanette",English,4.1,19
+"Pennsylvania State University","Okere Margaret",English,2.3,19
+"Pennsylvania State University","Papikian Mihran",Mathematics,3.4,19
+"Pennsylvania State University","Pascual Eduardo",English,4.3,19
+"Pennsylvania State University","Qiao Yu",Mathematics,1.9,19
+"Pennsylvania State University","Quinlivan Raena",Communication,3,19
+"Pennsylvania State University","Ricketts Robert","Health Science",4.1,19
+"Pennsylvania State University","Rubin Kimberly",Religion,4.4,19
+"Pennsylvania State University","Schneider Lori",Communication,3.4,19
+"Pennsylvania State University","Selzer Linda",English,4.4,19
+"Pennsylvania State University","Spokus Diane","Health Administration",3.6,19
+"Pennsylvania State University","Thompson Ian","Comparative Literature",1.5,19
+"Pennsylvania State University","Valentine Amanda",English,3.7,19
+"Pennsylvania State University","Ventura Jose","Industrial Engineering",3.9,19
+"Pennsylvania State University","Vicario Michael",English,4.1,19
+"Pennsylvania State University","Webster Mort","Earth Science",5,19
+"Pennsylvania State University","Yashinski Allan",Mathematics,4.6,19
+"Pennsylvania State University","Zhou Ruilin",Economics,1.9,19
+"Pennsylvania State University","Adams Reginald",Psychology,3.7,18
+"Pennsylvania State University","Akgun Mahir","Information Sciences  Technology",1.2,18
+"Pennsylvania State University","Ballenger Jesse","Social Science",3.9,18
+"Pennsylvania State University","Bell Bernard",English,2.3,18
+"Pennsylvania State University","Bingaman Rod",Communication,4.3,18
+"Pennsylvania State University","Blair Dorothy",Nutrition,2.7,18
+"Pennsylvania State University","Boittin Jennifer",French,4.1,18
+"Pennsylvania State University","Bolton Lisa",Marketing,2.7,18
+"Pennsylvania State University","Briceno Mia",Communication,3.1,18
+"Pennsylvania State University","Busges Phoebe",French,3.9,18
+"Pennsylvania State University","Colapietro Vincent",Philosophy,4.1,18
+"Pennsylvania State University","Conroy Dave",Psychology,3.3,18
+"Pennsylvania State University","Costanzo Denise","Art History",3.9,18
+"Pennsylvania State University","Cummings Keith","Fine Arts",3.9,18
+"Pennsylvania State University","Doherty John","Electrical Engineering",3,18
+"Pennsylvania State University","Drane Greg",Music,4.4,18
+"Pennsylvania State University","Eberhart Ryan",Mathematics,4,18
+"Pennsylvania State University","Fairdosi Amir","Political Science",4.4,18
+"Pennsylvania State University","Friedken Lawrence",Accounting,4.8,18
+"Pennsylvania State University","Furlong Kevin",Geology,4,18
+"Pennsylvania State University","Gilmour David","Biological Sciences",4.2,18
+"Pennsylvania State University","Gluckman Bruce",Engineering,1.2,18
+"Pennsylvania State University","Gogolyev Andriy",Mathematics,3.3,18
+"Pennsylvania State University","Hill John","Computer Science",3.6,18
+"Pennsylvania State University","Hoag Anne",Communication,3.8,18
+"Pennsylvania State University","Hopple Christine",Kinesiology,1.5,18
+"Pennsylvania State University","Joshi Elena",Engineering,3.7,18
+"Pennsylvania State University","Kane Tim","Electrical Engineering",3.6,18
+"Pennsylvania State University","Kaplan Kyle",Business,3.7,18
+"Pennsylvania State University","Keller Klaus","Earth Science",2.6,18
+"Pennsylvania State University","Kracaw William",Finance,2.9,18
+"Pennsylvania State University","Kursungoz Kagan",Mathematics,3.6,18
+"Pennsylvania State University","Lafemina Peter","Earth Science",3.3,18
+"Pennsylvania State University","Lee Tae-Hee",Chemistry,3.3,18
+"Pennsylvania State University","Maranas Janna","Chemical Engineering",2.3,18
+"Pennsylvania State University","May Elizabeth",English,4.3,18
+"Pennsylvania State University","Mazow Alissa","Art History",2.6,18
+"Pennsylvania State University","Mockensturm Eric",Engineering,2.9,18
+"Pennsylvania State University","Mount Daniel","Hotel & Restaurant Management",3.9,18
+"Pennsylvania State University","Pennypacker Eliza","Landscape Architecture & Regional Planning",4.7,18
+"Pennsylvania State University","Piazza Stephen",Kinesiology,2.8,18
+"Pennsylvania State University","Pitas Nicholas","Recreation Parks  Tourism",3.8,18
+"Pennsylvania State University","Restall Matthew",History,4,18
+"Pennsylvania State University","Rockmore Matt",English,3.1,18
+"Pennsylvania State University","Sainburg Robert",Kinesiology,4.3,18
+"Pennsylvania State University","Scheidecker Judy",English,3.8,18
+"Pennsylvania State University","Snow Dean",Anthropology,3.7,18
+"Pennsylvania State University","States Julie","Human Development",4.6,18
+"Pennsylvania State University","Steele Cody",Statistics,4.4,18
+"Pennsylvania State University","Tumolo Michael",Communication,3.2,18
+"Pennsylvania State University","Turns Stephen",Engineering,4.1,18
+"Pennsylvania State University","Tussey Doug",Physics,3.8,18
+"Pennsylvania State University","Van Duin Diana",Chemistry,1.5,18
+"Pennsylvania State University","Weiss Paul",Chemistry,4.1,18
+"Pennsylvania State University","West Sheila","Health Science",3.9,18
+"Pennsylvania State University","Wright Jason",Astronomy,3.4,18
+"Pennsylvania State University","Yavuzkurt Savas","Mechanical Engineering",2.9,18
+"Pennsylvania State University","Abel Jonathan",Literature,3.8,17
+"Pennsylvania State University","Al-gharaib Meshal","Earth Science",3.8,17
+"Pennsylvania State University","Andersen Carl",English,4.3,17
+"Pennsylvania State University","Archangeli Melanie",Spanish,4.4,17
+"Pennsylvania State University","Beltz Roger",Biology,4.8,17
+"Pennsylvania State University","Berkman Michael","Political Science",2.6,17
+"Pennsylvania State University","Bode-Lang Katie",English,4.8,17
+"Pennsylvania State University","Brandt Niel",Astronomy,3.8,17
+"Pennsylvania State University","Brownawell Woodrow",Mathematics,3.5,17
+"Pennsylvania State University","Burago Dmitri",Mathematics,2.7,17
+"Pennsylvania State University","Cali Thomas","Real Estate",4.6,17
+"Pennsylvania State University","Chu Chao","Information Science",1.9,17
+"Pennsylvania State University","Cox Charles",Engineering,3.2,17
+"Pennsylvania State University","Crane Robert",Geology,2.8,17
+"Pennsylvania State University","D'Augelli Anthony","Human Development",3.9,17
+"Pennsylvania State University","Dexter Douglas",Education,4.9,17
+"Pennsylvania State University","Eshleman Russell",Communication,4.5,17
+"Pennsylvania State University","Evans Jenni",Meteorology,2.3,17
+"Pennsylvania State University","Evans Samuel",Engineering,4.7,17
+"Pennsylvania State University","Furman Tanya",Geology,3.7,17
+"Pennsylvania State University","Gannon Edward","Civil Engineering",4,17
+"Pennsylvania State University","Glocke Dennis",Music,4.8,17
+"Pennsylvania State University","Grenci Lee","Earth Science",3.5,17
+"Pennsylvania State University","Hamilton Teresa",English,2.9,17
+"Pennsylvania State University","Houston Thomas",Spanish,4.6,17
+"Pennsylvania State University","Irwin Mary Jane","Computer Science",2.9,17
+"Pennsylvania State University","Jackson Ronald",Communication,2.8,17
+"Pennsylvania State University","Jaenicke Alison",English,3.8,17
+"Pennsylvania State University","Jaksch Marla Lyn","Women's Studies",2.8,17
+"Pennsylvania State University","Jenssen Kris",Mathematics,2.9,17
+"Pennsylvania State University","Kayser Talley",English,4.5,17
+"Pennsylvania State University","Kitko Lisa",Nursing,3.2,17
+"Pennsylvania State University","Krebs Carsten","Biological Sciences",2.5,17
+"Pennsylvania State University","Lennon Brian",English,3.9,17
+"Pennsylvania State University","Li Chuanbin",Mathematics,3.1,17
+"Pennsylvania State University","Lougy Robert",English,3.9,17
+"Pennsylvania State University","Mann Michael",Meteorology,3.5,17
+"Pennsylvania State University","Mcfadden Dawn","Chemical Engineering",1.6,17
+"Pennsylvania State University","McReynolds Phillip",Philosophy,2.8,17
+"Pennsylvania State University","Mensinger Lisa",Business,3.2,17
+"Pennsylvania State University","Meyer-Hoess Ines",Communication,4.6,17
+"Pennsylvania State University","Monthley Helene",Kinesiology,3.5,17
+"Pennsylvania State University","Murphy Alison","Information Sciences  Technology",4.8,17
+"Pennsylvania State University","O'Hara Kenneth",Physics,3.2,17
+"Pennsylvania State University","Ploog Randy","Art History",4.4,17
+"Pennsylvania State University","Redwing Ronald",Physics,2.8,17
+"Pennsylvania State University","Reed Lisa",French,4.5,17
+"Pennsylvania State University","Rosenberg  Kate",English,4,17
+"Pennsylvania State University","Rutkowski Joanne",Music,2.7,17
+"Pennsylvania State University","Sanders Jean",Architecture,3,17
+"Pennsylvania State University","Schuchert Megan",Kinesiology,4.8,17
+"Pennsylvania State University","Seltzer David",Philosophy,2.7,17
+"Pennsylvania State University","Shapiro David",Economics,3.8,17
+"Pennsylvania State University","Smal Pia","Human Development",4.7,17
+"Pennsylvania State University","Sohn Schalyn ",Accounting,3.3,17
+"Pennsylvania State University","Squillante Sheila",English,4.4,17
+"Pennsylvania State University","Stauffer Kai Dawn","Human Development",4.3,17
+"Pennsylvania State University","Teti Sherry",Mathematics,1.4,17
+"Pennsylvania State University","Thompson James",Kinesiology,4.2,17
+"Pennsylvania State University","Wu Jian","Information Sciences  Technology",2.6,17
+"Pennsylvania State University","Yilmaz Hulya",German,2.7,17
+"Pennsylvania State University","Zarzar Lauren","Materials Engineering",2.6,17
+"Pennsylvania State University","Zeigler Jennifer",Communication,3.7,17
+"Pennsylvania State University","Zhao Zhibiao",Statistics,4.3,17
+"Pennsylvania State University","Ahern Frank","Biological Sciences",3.8,16
+"Pennsylvania State University","Alley Michael",Communication,4.7,16
+"Pennsylvania State University","Aloia Lindsey",Communication,4.7,16
+"Pennsylvania State University","Anderson Claudia",Education,4.1,16
+"Pennsylvania State University","Anner Mark","Labor & Employment Relations",4.3,16
+"Pennsylvania State University","Blair Karen","Human Development",2.8,16
+"Pennsylvania State University","Botero Chris",Spanish,4.6,16
+"Pennsylvania State University","Brooks Robert",Geography,3.9,16
+"Pennsylvania State University","Brooks Debbie",Education,4.7,16
+"Pennsylvania State University","Brust Imke",German,4.8,16
+"Pennsylvania State University","Caserio Robert",English,3,16
+"Pennsylvania State University","Downs Roger",Geography,4.5,16
+"Pennsylvania State University","Egorov Arseny",Mathematics,3.2,16
+"Pennsylvania State University","Eser Semih","Earth Science",3.7,16
+"Pennsylvania State University","Fantle Matthew","Earth Science",3,16
+"Pennsylvania State University","Farrell Bryan",Art,3,16
+"Pennsylvania State University","Fraser Cary",History,2.2,16
+"Pennsylvania State University","Gadomski Frederick",Meteorology,3.5,16
+"Pennsylvania State University","Gebhardtsbauer Ron",Business,3.5,16
+"Pennsylvania State University","Gomez Dan Enrique","Chemical Engineering",2.8,16
+"Pennsylvania State University","Greene Herbert",Mathematics,4.3,16
+"Pennsylvania State University","Harrington Jerry",Meteorology,5,16
+"Pennsylvania State University","Harvey Paul",History,4.9,16
+"Pennsylvania State University","Hasson Hilaf",Mathematics,4.8,16
+"Pennsylvania State University","Henderson Diane",Mathematics,3.3,16
+"Pennsylvania State University","Honavar Vasant","Information Sciences & Technology",4.2,16
+"Pennsylvania State University","Jaffe Austin",Business,2.2,16
+"Pennsylvania State University","Jones Art","Information Science",3.8,16
+"Pennsylvania State University","Kimel Robert","Materials Engineering",3.3,16
+"Pennsylvania State University","Kisenwether Elizabeth",Engineering,4.1,16
+"Pennsylvania State University","Klima Mark","Mineral Engineering",4.5,16
+"Pennsylvania State University","Kraft Reuben","Mechanical Engineering",4.3,16
+"Pennsylvania State University","Krivonosov Alex",History,4,16
+"Pennsylvania State University","Kulchar Douglas",English,3,16
+"Pennsylvania State University","Lagoa Constantino","Electrical Engineering",4.5,16
+"Pennsylvania State University","Lakhtakia Mercedes",Spanish,4,16
+"Pennsylvania State University","Lara Risé",Communication,3.6,16
+"Pennsylvania State University","Leach Anthony",Music,4.8,16
+"Pennsylvania State University","Li Jenny",Mathematics,3.3,16
+"Pennsylvania State University","Liu Chun",Mathematics,3.8,16
+"Pennsylvania State University","Loken Eric","Human Development",2.7,16
+"Pennsylvania State University","Louie Allison",Mathematics,4.8,16
+"Pennsylvania State University","Lynch Paul",Engineering,5,16
+"Pennsylvania State University","Madonna Kissell",English,4.7,16
+"Pennsylvania State University","Markowski Paul",Meteorology,4.3,16
+"Pennsylvania State University","McBride David",Sociology,3.7,16
+"Pennsylvania State University","Metzner John","Computer Science",1.5,16
+"Pennsylvania State University","Mhando Peter",Business,3,16
+"Pennsylvania State University","Mills Ed","Animal Science",3.1,16
+"Pennsylvania State University","Milner Claire",Anthropology,3,16
+"Pennsylvania State University","Modest Michael",Engineering,2.5,16
+"Pennsylvania State University","Mostafa Miguel",Physics,3.5,16
+"Pennsylvania State University","nicolai volland",Humanities,2.1,16
+"Pennsylvania State University","Nyheim Peter","Hotel & Restaurant Management",4.4,16
+"Pennsylvania State University","O'Donnell John","Hotel & Restaurant Management",3.5,16
+"Pennsylvania State University","Ore Ersula Jawanna",English,2.3,16
+"Pennsylvania State University","Oropesa Sal",Sociology,3,16
+"Pennsylvania State University","Osborn Rosa",Spanish,4.5,16
+"Pennsylvania State University","Ostiguy Nancy",Entomology,3.1,16
+"Pennsylvania State University","Pencak William",History,3.6,16
+"Pennsylvania State University","Pirrone Josephine",English,3.6,16
+"Pennsylvania State University","Porter Ronald","Biological Sciences",3.3,16
+"Pennsylvania State University","Purdum Susan",Business,3.8,16
+"Pennsylvania State University","Ramirez Alejandro",Spanish,3.1,16
+"Pennsylvania State University","Redford Asunta",History,2.5,16
+"Pennsylvania State University","Reese Christine",History,4,16
+"Pennsylvania State University","Robinson Anthony",Geography,4.6,16
+"Pennsylvania State University","Santavicca Domeni","Mechanical Engineering",2.2,16
+"Pennsylvania State University","Schuhmann Rick",Engineering,3.8,16
+"Pennsylvania State University","Shufran Gregory",Engineering,2.3,16
+"Pennsylvania State University","Sibrava Nick",Psychology,4.7,16
+"Pennsylvania State University","Srikrishnan Vivek",Mathematics,3.3,16
+"Pennsylvania State University","Staff Jeremy",Sociology,2.8,16
+"Pennsylvania State University","Starosta Anita","International Studies",3.3,16
+"Pennsylvania State University","Techatassanasoontorn Angsana","Information Science",4.5,16
+"Pennsylvania State University","Tempelman Arkady",Mathematics,3.2,16
+"Pennsylvania State University","Tuttle Joshua",English,2.5,16
+"Pennsylvania State University","Van Hell Janet",Psychology,4.3,16
+"Pennsylvania State University","Wallace Neil",Economics,1.7,16
+"Pennsylvania State University","Wang Qiong",Marketing,4.6,16
+"Pennsylvania State University","Weaver Bryce",Mathematics,1.9,16
+"Pennsylvania State University","Winscot Rick","Information Systems",4.3,16
+"Pennsylvania State University","Yurman Will",Communication,4.3,16
+"Pennsylvania State University","Zhu Jun",Physics,2.5,16
+"Pennsylvania State University","Zhu Sencun","Computer Science",2.3,16
+"Pennsylvania State University","Aalberts Robert",Law,3.5,15
+"Pennsylvania State University","Adams Matthew",Classics,4.3,15
+"Pennsylvania State University","Aumiller Dane",Kinesiology,4.9,15
+"Pennsylvania State University","Basu Sankha",Mathematics,4.4,15
+"Pennsylvania State University","Belegundu Ashok D","Mechanical Engineering",3,15
+"Pennsylvania State University","Bianchi Eugenio",Physics,4.3,15
+"Pennsylvania State University","Bowers Paul",Engineering,3.8,15
+"Pennsylvania State University","Briscoe Forrest",Sociology,3.1,15
+"Pennsylvania State University","Brune William",Meteorology,3.1,15
+"Pennsylvania State University","Cai Daolu",Economics,2.3,15
+"Pennsylvania State University","Camacci Lauren",Communication,3.5,15
+"Pennsylvania State University","Chatterjee Ipsita",Geography,3.2,15
+"Pennsylvania State University","Chen Liana",Chinese,4.7,15
+"Pennsylvania State University","Chicknimaah Naveen","Food Science",4,15
+"Pennsylvania State University","Clem Cynthia",English,3.4,15
+"Pennsylvania State University","Clough Zach",English,3.8,15
+"Pennsylvania State University","Corigliano Alessandra",Italian,3.6,15
+"Pennsylvania State University","Cuya Lorena",Spanish,4.2,15
+"Pennsylvania State University","Dansky Larry","Health Administration",4.4,15
+"Pennsylvania State University","Darragjati Julian",English,4.1,15
+"Pennsylvania State University","Datta Anjuli","Biological Sciences",3.8,15
+"Pennsylvania State University","Dayanada Vanitha",Sociology,2.9,15
+"Pennsylvania State University","Doan William",Theater,4.1,15
+"Pennsylvania State University","Dong Cheng",Engineering,3,15
+"Pennsylvania State University","Droz Daniel",Mathematics,3.5,15
+"Pennsylvania State University","Dubyak Pamela",Psychology,3.9,15
+"Pennsylvania State University","Elder Andy",Journalism,3.6,15
+"Pennsylvania State University","Engels Jeremy",Communication,4.8,15
+"Pennsylvania State University","Evans Susan",Anthropology,3.4,15
+"Pennsylvania State University","Fattal Alexander",Communication,2.8,15
+"Pennsylvania State University","Gest Scott","Human Development",3.5,15
+"Pennsylvania State University","Gilmore Rick",Psychology,4.5,15
+"Pennsylvania State University","Givoly Dan",Accounting,2.5,15
+"Pennsylvania State University","Glocke Jayne",Music,4.4,15
+"Pennsylvania State University","Greenberg Amy",History,3.8,15
+"Pennsylvania State University","Grosholz Emily",Philosophy,2.5,15
+"Pennsylvania State University","Harkavy Robert","Political Science",3.5,15
+"Pennsylvania State University","Hartranft Janet","Fine Arts",3.8,15
+"Pennsylvania State University","Hojnacki Marie","Political Science",3,15
+"Pennsylvania State University","Huang Jingzhi",Finance,4.3,15
+"Pennsylvania State University","Joffe Alex",Anthropology,4.4,15
+"Pennsylvania State University","Kecojevic Vladislav","Mineral Engineering",4.8,15
+"Pennsylvania State University","Kiver Christopher",Music,4.5,15
+"Pennsylvania State University","Knight Wanda","Fine Arts",3.4,15
+"Pennsylvania State University","Kretchmar Scott",Kinesiology,4,15
+"Pennsylvania State University","Kvasny Lynette","Information Science",4.7,15
+"Pennsylvania State University","Lee Wang Chien","Computer Science",4.1,15
+"Pennsylvania State University","Leichty John",Marketing,3.2,15
+"Pennsylvania State University","Ling Moses",Engineering,3.9,15
+"Pennsylvania State University","Liu Aimin","Biological Sciences",3.4,15
+"Pennsylvania State University","Lovell Stevie",Hospitality,4.1,15
+"Pennsylvania State University","Lueking Angela",Engineering,2,15
+"Pennsylvania State University","Lunsford Bradley","Criminal Justice",4.2,15
+"Pennsylvania State University","Mahdavi Mehrdad","Computer Science",4.6,15
+"Pennsylvania State University","Manias Evangelos","Materials Engineering",2.9,15
+"Pennsylvania State University","Martin Molly",Sociology,3.5,15
+"Pennsylvania State University","Mbih Richard","African-American Studies",2.4,15
+"Pennsylvania State University","McKee Eric",Music,4.5,15
+"Pennsylvania State University","Mench Matthew",Engineering,4.9,15
+"Pennsylvania State University","Mensch Jennifer",Philosophy,4.4,15
+"Pennsylvania State University","Michels Margaret",Communication,4.3,15
+"Pennsylvania State University","Milillo Sara","Food Science",3.1,15
+"Pennsylvania State University","Miller David","Electrical Engineering",2.7,15
+"Pennsylvania State University","Moiles Sean",English,3.6,15
+"Pennsylvania State University","Mull Robert",English,3.7,15
+"Pennsylvania State University","Mullen Gary",Mathematics,3.8,15
+"Pennsylvania State University","Muller Karl",Accounting,4.2,15
+"Pennsylvania State University","Murakami Katsuhiko","Biological Sciences",3.3,15
+"Pennsylvania State University","Namasivayam Karthikeyan","Hotel & Restaurant Management",2.5,15
+"Pennsylvania State University","Neff Brian",English,4.2,15
+"Pennsylvania State University","Nelson Elizabeth",English,4.5,15
+"Pennsylvania State University","Nguyen Toan",Mathematics,4.2,15
+"Pennsylvania State University","O' Connor Jacqueline","Mechanical Engineering",3.7,15
+"Pennsylvania State University","O'Hara Lisa",Management,3.7,15
+"Pennsylvania State University","Orshanskiy Sergey",Mathematics,2.2,15
+"Pennsylvania State University","Palacios Jose","Aerospace Engineering",3.5,15
+"Pennsylvania State University","Parker Klees Lynn",Nutrition,3.5,15
+"Pennsylvania State University","Pettit Brandon",English,3,15
+"Pennsylvania State University","Pinkse Coenraad",Economics,2.2,15
+"Pennsylvania State University","Posey Lisa",Business,3.8,15
+"Pennsylvania State University","Prescott Laurence",Spanish,4.2,15
+"Pennsylvania State University","Pursel Misty",Spanish,4,15
+"Pennsylvania State University","Raupach Kathleen","Recreation, Parks, & Tourism",3,15
+"Pennsylvania State University","Reluga Timothy",Mathematics,3.2,15
+"Pennsylvania State University","Ritter Sarah",Engineering,4.3,15
+"Pennsylvania State University","Ritter Frank","Information Science",3,15
+"Pennsylvania State University","Robbins Heather",Communication,3,15
+"Pennsylvania State University","Roland Richard",Theater,2.9,15
+"Pennsylvania State University","Ruscitti-Tovar Morella",Spanish,4.4,15
+"Pennsylvania State University","Sadler Julie","Labor & Employment Relations",2.7,15
+"Pennsylvania State University","Schaefer Shawnee",Nutrition,3,15
+"Pennsylvania State University","Schumacher Sydney",English,4.5,15
+"Pennsylvania State University","Sharpe Emily",English,4.1,15
+"Pennsylvania State University","Silverman Willa",Languages,3.5,15
+"Pennsylvania State University","Smith Scott",English,4.8,15
+"Pennsylvania State University","Sommese Lanny","Graphic Arts",3.6,15
+"Pennsylvania State University","Stafford Andrew",French,4.8,15
+"Pennsylvania State University","Strandquist Jason",History,4.5,15
+"Pennsylvania State University","Treftz Jill",English,3.9,15
+"Pennsylvania State University","Turrisi Robert","Biological Sciences",4.5,15
+"Pennsylvania State University","Watt Lewis",Engineering,5,15
+"Pennsylvania State University","Weiss David",Physics,2.8,15
+"Pennsylvania State University","Wheeler Ford Dara",Nutrition,3.4,15
+"Pennsylvania State University","Yoder Dan",Music,3.6,15
+"Pennsylvania State University","Yuan Zhongyi ","Actuarial Science",3.7,15
+"Pennsylvania State University","Zehngut Loretta",Languages,4.6,15
+"Pennsylvania State University","Zhang Xumu",Chemistry,1.5,15
+"Pennsylvania State University","Allen Doug","Labor & Employment Relations",2.7,14
+"Pennsylvania State University","Ammon Charles","Earth Science",3.4,14
+"Pennsylvania State University","Babu G. Jogesh",Statistics,2,14
+"Pennsylvania State University","Bakshi Alok",Mathematics,4.4,14
+"Pennsylvania State University","Baldi Philip",Classics,4,14
+"Pennsylvania State University","Baril Megan","Human Development",3.7,14
+"Pennsylvania State University","Bauman Joseph",Spanish,4.6,14
+"Pennsylvania State University","Baxter Kristen","Classical  Medieval Studies",4.2,14
+"Pennsylvania State University","Beale John",Journalism,4.8,14
+"Pennsylvania State University","Behoora Ishan","Computer Science",3.9,14
+"Pennsylvania State University","Behun William",Philosophy,4.7,14
+"Pennsylvania State University","Benitez Vincent",Music,3.9,14
+"Pennsylvania State University","Berezniak John",Engineering,4.2,14
+"Pennsylvania State University","Blair William",History,4.3,14
+"Pennsylvania State University","Boben Ronald",English,2.1,14
+"Pennsylvania State University","Bounatirou Riadh","Comparative Literature",4.2,14
+"Pennsylvania State University","Brisini Travis","Communication Arts",4.7,14
+"Pennsylvania State University","Browne Kevin",English,3.8,14
+"Pennsylvania State University","Cleveland Jeanette",Psychology,4.2,14
+"Pennsylvania State University","Collins Morris",English,4.6,14
+"Pennsylvania State University","Conway Daniel",Philosophy,3.9,14
+"Pennsylvania State University","Coulson Ed",Economics,3.7,14
+"Pennsylvania State University","De Schaepdrijver Sophie",History,4,14
+"Pennsylvania State University","Delgado-Poust Antonia",Spanish,4.4,14
+"Pennsylvania State University","Derickson Alan",History,4.4,14
+"Pennsylvania State University","DI Chunyuan",Chinese,4,14
+"Pennsylvania State University","Dionisio Joseph","Health Administration",4.3,14
+"Pennsylvania State University","Dorman Frank",Biochemistry,4.7,14
+"Pennsylvania State University","Edelstein Ruth",Hebrew,2.7,14
+"Pennsylvania State University","Eggebeen David",Humanities,3.4,14
+"Pennsylvania State University","Eracleous Mike",Astronomy,4,14
+"Pennsylvania State University","Eury Jennifer",Management,3.6,14
+"Pennsylvania State University","Fang Yang",Mathematics,2.6,14
+"Pennsylvania State University","Fleming Erica",English,3.8,14
+"Pennsylvania State University","Fleming Jennifer",Nutrition,4.2,14
+"Pennsylvania State University","Flood Stephen",Mathematics,3.2,14
+"Pennsylvania State University","Gates Holly",Communication,3.9,14
+"Pennsylvania State University","Gaugler Trent",Statistics,4,14
+"Pennsylvania State University","Grady Kyle",Philosophy,4.5,14
+"Pennsylvania State University","Granger Douglas",Psychology,2.8,14
+"Pennsylvania State University","Griel Lester",Agriculture,4.7,14
+"Pennsylvania State University","Henry Jessica","Human Development",4.5,14
+"Pennsylvania State University","Hicks Jesse",English,1.6,14
+"Pennsylvania State University","Hofherr Michael",Business,4.5,14
+"Pennsylvania State University","Hopkins Margaret",Journalism,3.5,14
+"Pennsylvania State University","Hurson Ali","Computer Science",3,14
+"Pennsylvania State University","Joshi Sanjay","Industrial Engineering",1.9,14
+"Pennsylvania State University","Kavehrad Mohsen","Electrical Engineering",4.6,14
+"Pennsylvania State University","Kile Charles",Accounting,4.4,14
+"Pennsylvania State University","Kilpatrick Lisa","Biological Sciences",3,14
+"Pennsylvania State University","Lafer Theresa",History,3,14
+"Pennsylvania State University","Lamancusa John",Engineering,2.3,14
+"Pennsylvania State University","Lambert Andrew",Business,4,14
+"Pennsylvania State University","Lazarow Lewis",English,2.4,14
+"Pennsylvania State University","Li Qi (jenny)",Physics,2.4,14
+"Pennsylvania State University","Lindner Scott","Biological Sciences",3.1,14
+"Pennsylvania State University","Lorence Daniel","Health Science",3.6,14
+"Pennsylvania State University","Martin Willard",German,4.2,14
+"Pennsylvania State University","McMillan Sam",English,4.4,14
+"Pennsylvania State University","McNeil Rhett","Comparative Literature",4.7,14
+"Pennsylvania State University","Milhomme Marcy","Communication Arts",3.5,14
+"Pennsylvania State University","Myers Sharon",English,4,14
+"Pennsylvania State University","Na Muzi",Nutrition,2.4,14
+"Pennsylvania State University","Norloff David ",Communication,3.6,14
+"Pennsylvania State University","Novikov Alexei",Mathematics,4.1,14
+"Pennsylvania State University","Ortmann Phillip",English,3.6,14
+"Pennsylvania State University","Padala Vykuntha","Biological Sciences",4.4,14
+"Pennsylvania State University","Pardoe Iain",Statistics,2.6,14
+"Pennsylvania State University","Paret Michelle",Statistics,4.4,14
+"Pennsylvania State University","Perry Adam",Communication,4.6,14
+"Pennsylvania State University","Post David",Education,3.1,14
+"Pennsylvania State University","Ray William",Psychology,2.9,14
+"Pennsylvania State University","Reddy Madhu","Information Science",3.8,14
+"Pennsylvania State University","Reese Joseph",Biochemistry,3.1,14
+"Pennsylvania State University","Rimland Jeffery","Information Sciences  Technology",3.7,14
+"Pennsylvania State University","Ristau Ken",History,3,14
+"Pennsylvania State University","Roberts Robert",Agriculture,3.1,14
+"Pennsylvania State University","Rock Melissa",Geography,2.3,14
+"Pennsylvania State University","Schreier Hannah","Behavioral Sciences",2,14
+"Pennsylvania State University","Scott Stephanie",English,3.8,14
+"Pennsylvania State University","Segall Albert",Engineering,3.8,14
+"Pennsylvania State University","Sinha Alok",Engineering,2.8,14
+"Pennsylvania State University","Sparks Sherron",Psychology,3.6,14
+"Pennsylvania State University","Squyres Nicole","Biological Sciences",3.6,14
+"Pennsylvania State University","Stec Frank",Communication,4.9,14
+"Pennsylvania State University","Tschakert Petra",Geography,3.7,14
+"Pennsylvania State University","Urquidi-Macdonald Mirna",Engineering,3.5,14
+"Pennsylvania State University","Velegol Stephanie","Civil Engineering",4.5,14
+"Pennsylvania State University","Walton Steven",Engineering,3.8,14
+"Pennsylvania State University","Wardell Mark",Business,2.3,14
+"Pennsylvania State University","Warner Jeff",Meteorology,4,14
+"Pennsylvania State University","Wasbotten Thor",Communication,4.9,14
+"Pennsylvania State University","Withrow Judith",Psychology,4,14
+"Pennsylvania State University","Wrobel Tracey",Statistics,2.8,14
+"Pennsylvania State University","Yednock Ken",Communication,4.4,14
+"Pennsylvania State University","Adler Eliyana","Jewish Studies",2.2,13
+"Pennsylvania State University","Aeschbacher Peter",Architecture,4.4,13
+"Pennsylvania State University","Alderman Robert",English,4.5,13
+"Pennsylvania State University","Authier J. Marc",French,4.4,13
+"Pennsylvania State University","Aydin Kultegin","Electrical Engineering",2,13
+"Pennsylvania State University","Bannon Peter",Meteorology,2.2,13
+"Pennsylvania State University","Bansal Saurabh",Business,4.8,13
+"Pennsylvania State University","Barlow Brad",Astronomy,4.7,13
+"Pennsylvania State University","Barnhart James",History,3.8,13
+"Pennsylvania State University","Bettig Ronald",Communication,3.2,13
+"Pennsylvania State University","Booz Patrick",History,3.5,13
+"Pennsylvania State University","Bordi Pete",Hospitality,4.8,13
+"Pennsylvania State University","Boyer Philip",Engineering,4.6,13
+"Pennsylvania State University","Buckley William",Kinesiology,3.6,13
+"Pennsylvania State University","Cardenas Rodrigo",Psychology,3.4,13
+"Pennsylvania State University","Carpenter Lynn","Electrical Engineering",3.5,13
+"Pennsylvania State University","Chiles Robert",Agriculture,3.9,13
+"Pennsylvania State University","Chow Mosuk",Statistics,3.4,13
+"Pennsylvania State University","Church Marsha","Electrical Engineering",4.5,13
+"Pennsylvania State University","Cliette Brian",Hospitality,4,13
+"Pennsylvania State University","Cohen Jeffery",Anthropology,2.9,13
+"Pennsylvania State University","Cohen Rajal",Psychology,2.9,13
+"Pennsylvania State University","Cremer Paul",Chemistry,3.6,13
+"Pennsylvania State University","Demeter Edward","Industrial Engineering",2.3,13
+"Pennsylvania State University","Drafall Lynn",Music,3.9,13
+"Pennsylvania State University","Ertekin Turgay","Earth Science",4.2,13
+"Pennsylvania State University","Farrugia James","Information Sciences  Technology",1.5,13
+"Pennsylvania State University","Ford Elizabeth",Psychology,2.6,13
+"Pennsylvania State University","Fricks John",Statistics,2.8,13
+"Pennsylvania State University","Garcia-Prudencio Susana",Spanish,4.1,13
+"Pennsylvania State University","Gemelke Nate",Physics,3.4,13
+"Pennsylvania State University","Gravish Lori",Kinesiology,4.2,13
+"Pennsylvania State University","Greenspoon David",History,3.5,13
+"Pennsylvania State University","Grilli Renata",Italian,4.5,13
+"Pennsylvania State University","Haushalter David",Finance,3.6,13
+"Pennsylvania State University","Heaney Peter","Earth Science",4.5,13
+"Pennsylvania State University","Hnatkovich Philip",History,4.4,13
+"Pennsylvania State University","Holderman Gwendolyn",Nursing,4.5,13
+"Pennsylvania State University","Holding Cory",English,4.3,13
+"Pennsylvania State University","Hong Qingguo",Mathematics,3.5,13
+"Pennsylvania State University","Iwami Haruko",Japanese,3.6,13
+"Pennsylvania State University","Kale Verna",English,4.6,13
+"Pennsylvania State University","Khan Arshard",Chemistry,3.6,13
+"Pennsylvania State University","Knizia Gerald",Chemistry,4.7,13
+"Pennsylvania State University","Kuhn Liz",English,4.1,13
+"Pennsylvania State University","Lakhtakia Akhlesh",Engineering,3.4,13
+"Pennsylvania State University","Li Xiantao",Mathematics,4.2,13
+"Pennsylvania State University","Liu Chang",Mathematics,4,13
+"Pennsylvania State University","Lo Prete Chiara","Environmental Engineering",1.6,13
+"Pennsylvania State University","Lorenz Walter",Arabic,4.7,13
+"Pennsylvania State University","Manfull Helen",Music,4.1,13
+"Pennsylvania State University","Marsh John",English,4.2,13
+"Pennsylvania State University","Maughmer Mark",Engineering,3.8,13
+"Pennsylvania State University","Miller Mary Ann",Accounting,4.3,13
+"Pennsylvania State University","Miller Scarlett",Engineering,3.3,13
+"Pennsylvania State University","Millett Cristin","Visual Arts",3.8,13
+"Pennsylvania State University","Miraldi Lori",Communication,4.8,13
+"Pennsylvania State University","Misra Maya",Psychology,2.8,13
+"Pennsylvania State University","Mitra Dana",Education,3.5,13
+"Pennsylvania State University","Muhlstein Christopher",Engineering,2.7,13
+"Pennsylvania State University","Murray Heather",English,4,13
+"Pennsylvania State University","Narayanan Vijay","Computer Science",3,13
+"Pennsylvania State University","Newsom Lee",Anthropology,3.4,13
+"Pennsylvania State University","Olson Jon",Education,4,13
+"Pennsylvania State University","Owen Ben",Physics,2.8,13
+"Pennsylvania State University","Peterson Rhonda",English,1.7,13
+"Pennsylvania State University","Rattner Alexander","Mechanical Engineering",4.3,13
+"Pennsylvania State University","Ravindran Arunachalam",Engineering,4,13
+"Pennsylvania State University","Regopoulos Peter",Hospitality,3.8,13
+"Pennsylvania State University","Ristenbatt Ralph","Biological Sciences",3.5,13
+"Pennsylvania State University","Rosenberg Michael",Accounting,2.8,13
+"Pennsylvania State University","Rothrock Ling",Engineering,2.5,13
+"Pennsylvania State University","Rute Jason",Mathematics,3.3,13
+"Pennsylvania State University","Safran Janina",History,3.9,13
+"Pennsylvania State University","Shapiro Alexandra",English,2.9,13
+"Pennsylvania State University","Sheffield Jessica",Communication,3.4,13
+"Pennsylvania State University","Sherman Richie",Communication,4.2,13
+"Pennsylvania State University","Squicciarini Anna","Information Science",4.1,13
+"Pennsylvania State University","Stepan Lori",Chemistry,2.2,13
+"Pennsylvania State University","Stoffels Shelley","Civil Engineering",3.2,13
+"Pennsylvania State University","Sturges Mark",English,4.2,13
+"Pennsylvania State University","Sullivan Garrett",English,4,13
+"Pennsylvania State University","Sullivan Shannon",Philosophy,4.1,13
+"Pennsylvania State University","Swan Peter",Business,2.6,13
+"Pennsylvania State University","Swim Janet",Psychology,3.8,13
+"Pennsylvania State University","Thomchick Evelyn",Business,2.8,13
+"Pennsylvania State University","Tyrna Abbey",Geography,2.1,13
+"Pennsylvania State University","Ulmer Jeffery","Criminal Justice",3.7,13
+"Pennsylvania State University","Vallee Eric",English,4.7,13
+"Pennsylvania State University","Veney Cassandra","Ethnic Studies",3.8,13
+"Pennsylvania State University","Verbeeten Marja","Hotel & Restaurant Management",4.7,13
+"Pennsylvania State University","Vitanova Svetla",Finance,3.9,13
+"Pennsylvania State University","Wagner Alan","Aerospace Engineering",1.6,13
+"Pennsylvania State University","Waterhouse William",Mathematics,2.9,13
+"Pennsylvania State University","Wiley Rachael",English,2.9,13
+"Pennsylvania State University","Woodruff Nan",History,4.1,13
+"Pennsylvania State University","Wright Melissa",Geography,3.8,13
+"Pennsylvania State University","Wysocki Krzysztof",Mathematics,3.6,13
+"Pennsylvania State University","Xi Xiaoxing",Physics,2.5,13
+"Pennsylvania State University","Yener Barbara",Accounting,4,13
+"Pennsylvania State University","Yersin Peter","Hotel & Restaurant Management",3.7,13
+"Pennsylvania State University","Zhang Sulin",Engineering,3.5,13
+"Pennsylvania State University","Abbaas Omar","Industrial Engineering",3.6,12
+"Pennsylvania State University","Abrams Marc","Earth Science",4.3,12
+"Pennsylvania State University","Achord Samuel",Mathematics,5,12
+"Pennsylvania State University","Aksoy Deniz","Political Science",3.7,12
+"Pennsylvania State University","Andrews J Scott",Communication,4.6,12
+"Pennsylvania State University","Andrews George",Mathematics,4.7,12
+"Pennsylvania State University","Aryal Gaurab",Economics,2.6,12
+"Pennsylvania State University","Bamaca Mayra","Human Development",2.7,12
+"Pennsylvania State University","Bao Le",Statistics,4.9,12
+"Pennsylvania State University","Barlett A.L.","Hotel & Restaurant Management",3.8,12
+"Pennsylvania State University","Barnard Mary",Spanish,4.3,12
+"Pennsylvania State University","Beaury Robert",Engineering,4.5,12
+"Pennsylvania State University","Bell Kevin",English,3.6,12
+"Pennsylvania State University","Blood Ingrid","Communication Disorders",4.1,12
+"Pennsylvania State University","Blumsack Seth","Geological Engineering",4,12
+"Pennsylvania State University","Borhan Ali","Chemical Engineering",4,12
+"Pennsylvania State University","Brannick James",Mathematics,4.5,12
+"Pennsylvania State University","Brewer Cynthia",Geography,4.3,12
+"Pennsylvania State University","Brodie Monique",English,1.2,12
+"Pennsylvania State University","Browne Stephen",Communication,4.6,12
+"Pennsylvania State University","Bulathsinhala Priyangi",Statistics,4.2,12
+"Pennsylvania State University","Burgess Robert","Human Development",3.4,12
+"Pennsylvania State University","Camden Thomas",Film,4.7,12
+"Pennsylvania State University","Chen Gong","Biological Sciences",4,12
+"Pennsylvania State University","Clark Darlene",Nursing,3.6,12
+"Pennsylvania State University","Clark-Evans Chris",French,2.2,12
+"Pennsylvania State University","Colebrook Claire",English,4.5,12
+"Pennsylvania State University","Croft Ryan",English,3.1,12
+"Pennsylvania State University","Das Chitaranjan","Computer Science",2.8,12
+"Pennsylvania State University","Davidson Maritza",Spanish,3.9,12
+"Pennsylvania State University","Dawson Mike",Communication,4.3,12
+"Pennsylvania State University","Debroy Tarasankar","Materials Engineering",3,12
+"Pennsylvania State University","Denizci Basak",Hospitality,3.8,12
+"Pennsylvania State University","Desai Madhuri","Art History",3,12
+"Pennsylvania State University","Dillon John",Communication,3.1,12
+"Pennsylvania State University","Echols Ann",Business,4.1,12
+"Pennsylvania State University","Farber Darryl",Philosophy,3.8,12
+"Pennsylvania State University","Ferraguto Mark",Music,3.6,12
+"Pennsylvania State University","Fine Bill",English,4.9,12
+"Pennsylvania State University","Garbrick Amy","Information Sciences  Technology",3.7,12
+"Pennsylvania State University","Gorb Yuliya",Mathematics,4.9,12
+"Pennsylvania State University","Grossman Kathryn",French,4.2,12
+"Pennsylvania State University","Hackenbracht Ryan",English,4.5,12
+"Pennsylvania State University","Halpern Baruch",Religion,4.5,12
+"Pennsylvania State University","Haran Murali",Statistics,4,12
+"Pennsylvania State University","Hardin Marie",Communication,4.7,12
+"Pennsylvania State University","Hensley David Jam",History,3,12
+"Pennsylvania State University","Holtman Janet",English,4.7,12
+"Pennsylvania State University","Horn Mark",Engineering,3.9,12
+"Pennsylvania State University","Horn Kristen",Statistics,4.8,12
+"Pennsylvania State University","Ickes Barry",Economics,2.2,12
+"Pennsylvania State University","Ikis Didem","Biological Sciences",2.8,12
+"Pennsylvania State University","Jaenicke Edward",Economics,4.2,12
+"Pennsylvania State University","Karsten Heather",Agriculture,2.3,12
+"Pennsylvania State University","Knecht Sean",Engineering,2.6,12
+"Pennsylvania State University","Krajcovic Melissa","Biological Sciences",2.1,12
+"Pennsylvania State University","Krasilnakova Maria","Biological Sciences",3.5,12
+"Pennsylvania State University","Kump Lee","Earth Science",3.5,12
+"Pennsylvania State University","Kurdys Joshua",Philosophy,2,12
+"Pennsylvania State University","Landahl Mark","Political Science",2,12
+"Pennsylvania State University","Lee Younhee",Mathematics,4.8,12
+"Pennsylvania State University","Li Tianjiang",Mathematics,3.3,12
+"Pennsylvania State University","Maitland Carleen","Information Science",2.9,12
+"Pennsylvania State University","McCarthy James",Geography,4.3,12
+"Pennsylvania State University","Meacham Michael","Health Science",2.9,12
+"Pennsylvania State University","Mhando Lindah",Sociology,3.6,12
+"Pennsylvania State University","Morgart James",English,4.8,12
+"Pennsylvania State University","Mraovic Damjana",English,4.2,12
+"Pennsylvania State University","Munn Mary Lou",Classics,3.3,12
+"Pennsylvania State University","Murdock Kyle","Behavioral Sciences",4.2,12
+"Pennsylvania State University","Myers  Suzanne","Biological Sciences",1,12
+"Pennsylvania State University","Nalepa Shuchi",Business,4.5,12
+"Pennsylvania State University","Nembhard David",Engineering,1.4,12
+"Pennsylvania State University","O'Brien Edward",Chemistry,3.4,12
+"Pennsylvania State University","O'Connor Brenna",Kinesiology,4.8,12
+"Pennsylvania State University","Ogot Madara","Mechanical Engineering",3.2,12
+"Pennsylvania State University","Osagie Iunyulu",English,3.3,12
+"Pennsylvania State University","Phillips Scott",Chemistry,4.5,12
+"Pennsylvania State University","Posteraro Tano",Philosophy,5,12
+"Pennsylvania State University","Rose Anne",Religion,4.7,12
+"Pennsylvania State University","Rosson Mary Beth","Information Systems",2.7,12
+"Pennsylvania State University","Russomanno Dan",Accounting,4.1,12
+"Pennsylvania State University","Schoenholtz Sarah",English,4.4,12
+"Pennsylvania State University","Siegel Paul",Mathematics,3.9,12
+"Pennsylvania State University","Simmons Cynthia",Communication,4.3,12
+"Pennsylvania State University","Sivasubramaniam Anand","Computer Science",3.5,12
+"Pennsylvania State University","Slavkovic Aleksandra",Mathematics,2.5,12
+"Pennsylvania State University","St Pierre Tanja",Sociology,2,12
+"Pennsylvania State University","Stoekl Allan",Languages,3,12
+"Pennsylvania State University","Sullivan James",Kinesiology,4.8,12
+"Pennsylvania State University","Tachibana Reiko","Comparative Literature",3,12
+"Pennsylvania State University","Tayari Farid","Earth Science",3.6,12
+"Pennsylvania State University","Thomas Nicholas",Communication,3.8,12
+"Pennsylvania State University","Tuttle Michael",History,3.7,12
+"Pennsylvania State University","Ulmer David","Information Sciences & Technology",5,12
+"Pennsylvania State University","Vacco David",Geology,2.7,12
+"Pennsylvania State University","Villuendas Silvia",Languages,3.9,12
+"Pennsylvania State University","Vinca Maria",Psychology,4.5,12
+"Pennsylvania State University","Vuillemin Jean-Claude",French,4.3,12
+"Pennsylvania State University","Wagner Johanna",Italian,3.5,12
+"Pennsylvania State University","Weinreb Ross",Architecture,3.5,12
+"Pennsylvania State University","Westin Jessica",Anthropology,2.7,12
+"Pennsylvania State University","Wiley Rachel",English,3.8,12
+"Pennsylvania State University","Wong Cori",Philosophy,3.9,12
+"Pennsylvania State University","Wroten Matthew",Mathematics,3.1,12
+"Pennsylvania State University","WU Dinghao","Information Systems",2,12
+"Pennsylvania State University","Wyckoff Tara",Communication,5,12
+"Pennsylvania State University","Xie Yuan","Computer Science",3.5,12
+"Pennsylvania State University","Zhang Xiaolong "luke"","Information Science",3,12
+"Pennsylvania State University","Zhang Danfeng","Computer Science",3.5,12
+"Pennsylvania State University","Zhu Timothy","Computer Science",4.9,12
+"Pennsylvania State University","Abaci Uygar",Philosophy,4.3,11
+"Pennsylvania State University","Aboulafia Mitchell",Philosophy,4.4,11
+"Pennsylvania State University","Adams Tommy",Communication,3.1,11
+"Pennsylvania State University","Attwell-Duval Dylan",Mathematics,3,11
+"Pennsylvania State University","Balay Joey Micheal",Philosophy,3.9,11
+"Pennsylvania State University","Bannangkoon Pichkitti",Mathematics,4.8,11
+"Pennsylvania State University","Beevers David","Mechanical Engineering",2,11
+"Pennsylvania State University","Birschbach Mark",Communication,3.5,11
+"Pennsylvania State University","Bregar Mark",Mathematics,4.5,11
+"Pennsylvania State University","Brinkmann Tobias",History,4.6,11
+"Pennsylvania State University","Brizzi Brunella",Italian,4.2,11
+"Pennsylvania State University","Browne Sarah",Mathematics,2.2,11
+"Pennsylvania State University","Brzencheck Alison","Communication Arts",2.8,11
+"Pennsylvania State University","Cadambe Viveck","Electrical Engineering",2.4,11
+"Pennsylvania State University","Cavalier Tom","Industrial Engineering",4.1,11
+"Pennsylvania State University","Chatterjee Kalyan",Economics,2.6,11
+"Pennsylvania State University","Chichester Christine",English,4.1,11
+"Pennsylvania State University","Clare Pierre",Mathematics,3,11
+"Pennsylvania State University","Clothiaux Eugene",Meteorology,4.7,11
+"Pennsylvania State University","Cole Milton",Physics,2,11
+"Pennsylvania State University","Conklin Carla",English,4.3,11
+"Pennsylvania State University","Cooper James",Architecture,3.9,11
+"Pennsylvania State University","Cotruvo Joseph",Chemistry,3.4,11
+"Pennsylvania State University","Cottart Simon",French,4.8,11
+"Pennsylvania State University","Cramer Ben",Communication,4.4,11
+"Pennsylvania State University","Davis Kristopher Allen",Spanish,4.4,11
+"Pennsylvania State University","Delgado Grace",History,4.9,11
+"Pennsylvania State University","Deyoung Tyce",Physics,4.6,11
+"Pennsylvania State University","Diehl Renee",Physics,3.1,11
+"Pennsylvania State University","Erchenko Alena",Mathematics,3.3,11
+"Pennsylvania State University","Finn Lee",Physics,2.1,11
+"Pennsylvania State University","Ford Gabriel",English,3.5,11
+"Pennsylvania State University","Frisco Michelle",Sociology,4.7,11
+"Pennsylvania State University","GE MU",Mathematics,4.6,11
+"Pennsylvania State University","Geier Charles","Human Development",3.7,11
+"Pennsylvania State University","Glenn Cheryl",English,4.4,11
+"Pennsylvania State University","Goldstein Arthur",Music,3.8,11
+"Pennsylvania State University","Graham Jennifer","Biological Sciences",3.3,11
+"Pennsylvania State University","Hagen Daniel",Agriculture,2.5,11
+"Pennsylvania State University","Harrison Chip","Physical Ed",4.9,11
+"Pennsylvania State University","Hatemi Peter","Political Science",4.1,11
+"Pennsylvania State University","Hawkins Juliette",English,3,11
+"Pennsylvania State University","Helwege Jean",Finance,2.7,11
+"Pennsylvania State University","Hill David",Engineering,3.7,11
+"Pennsylvania State University","Hill James",English,4.5,11
+"Pennsylvania State University","Hogan J. Michael",Communication,3.1,11
+"Pennsylvania State University","Hsu JO",English,4,11
+"Pennsylvania State University","Hunter Melissa",Psychology,4.5,11
+"Pennsylvania State University","Iliev Peter",Finance,4.5,11
+"Pennsylvania State University","Jensen Karen","Earth Science",4.2,11
+"Pennsylvania State University","Jones Byron","Behavioral Sciences",3.9,11
+"Pennsylvania State University","Jordan John",Business,4.7,11
+"Pennsylvania State University","Kamp Marie",Nutrition,3.6,11
+"Pennsylvania State University","Kaye Miranda",Kinesiology,3.7,11
+"Pennsylvania State University","Keating Christine",Chemistry,3.8,11
+"Pennsylvania State University","Knobloch Cheryl",Engineering,4.8,11
+"Pennsylvania State University","Kordas Katarzyna",Nutrition,2.8,11
+"Pennsylvania State University","Krishna Kala",Economics,2.7,11
+"Pennsylvania State University","Kurlinkus William",English,4.3,11
+"Pennsylvania State University","Lacy Norris",French,4.6,11
+"Pennsylvania State University","Lawlor Leonard",Philosophy,4.3,11
+"Pennsylvania State University","Lawson Pam",Nursing,2.9,11
+"Pennsylvania State University","Levan Lori",Art,1.3,11
+"Pennsylvania State University","Li Jia",Mathematics,3,11
+"Pennsylvania State University","Lobo Julius",English,3.6,11
+"Pennsylvania State University","Long Lyle",Engineering,2.8,11
+"Pennsylvania State University","Lotier Kristopher",English,4.6,11
+"Pennsylvania State University","Mack Daniel",Classics,4.4,11
+"Pennsylvania State University","Madduri Kamesh","Computer Science",3.8,11
+"Pennsylvania State University","Maler Adrian",Mathematics,1,11
+"Pennsylvania State University","Malkowski Konrad","Computer Science",1.8,11
+"Pennsylvania State University","Mancini Olivia",Art,2.9,11
+"Pennsylvania State University","Mateer Leslie",English,2.4,11
+"Pennsylvania State University","Mathews John","Electrical Engineering",2.2,11
+"Pennsylvania State University","Mathews Tiffany",Chemistry,1.9,11
+"Pennsylvania State University","Matzko Paul",History,2.9,11
+"Pennsylvania State University","McAfee James",Education,3.7,11
+"Pennsylvania State University","McEntaffer Michael",Economics,2.5,11
+"Pennsylvania State University","McLaughlin Vanessa",English,4.4,11
+"Pennsylvania State University","Meisel Nicholas","Mechanical Engineering",2.3,11
+"Pennsylvania State University","Mikesell Robert","Animal Science",4.5,11
+"Pennsylvania State University","Miller Jennifer",French,4.3,11
+"Pennsylvania State University","Murphy Allison","Information Sciences  Technology",5,11
+"Pennsylvania State University","Nealon Jeffrey",English,3.7,11
+"Pennsylvania State University","Nistor Victor",Mathematics,4.4,11
+"Pennsylvania State University","Noone Breffni",Hospitality,2.6,11
+"Pennsylvania State University","Olson Thaddeus","Classical  Medieval Studies",4.2,11
+"Pennsylvania State University","Passary Donny",Mathematics,4.2,11
+"Pennsylvania State University","Pearl Dennis",Statistics,2.1,11
+"Pennsylvania State University","Perco Giuliana",Languages,3,11
+"Pennsylvania State University","Pfau Roberta (Bobby)","Physical Ed",2.9,11
+"Pennsylvania State University","Picon Fabrice",French,4,11
+"Pennsylvania State University","Plaufcan Melissa",Psychology,3.9,11
+"Pennsylvania State University","Pombeiro Fernando","Military Science",2.6,11
+"Pennsylvania State University","Poorman Jason",Art,3.8,11
+"Pennsylvania State University","Postle Kathleen",Biochemistry,2.3,11
+"Pennsylvania State University","Purdy Daniel",German,3,11
+"Pennsylvania State University","Roberts Mark",Economics,3.5,11
+"Pennsylvania State University","Roost Laura","Political Science",2.3,11
+"Pennsylvania State University","Rose Paul",History,4,11
+"Pennsylvania State University","Ross John",Sociology,2.7,11
+"Pennsylvania State University","Ruth George",Hospitality,4.3,11
+"Pennsylvania State University","Scheetz Barry","Civil Engineering",2.5,11
+"Pennsylvania State University","Schwartz Sanford",English,2.7,11
+"Pennsylvania State University","Senturk Damla",Statistics,2.5,11
+"Pennsylvania State University","Simeon Sandrine",French,4,11
+"Pennsylvania State University","Simpson Scott",Communication,4,11
+"Pennsylvania State University","Sinha Hansa",Business,2.2,11
+"Pennsylvania State University","Smid Ivica","Mechanical Engineering",2.1,11
+"Pennsylvania State University","Solari Amara","Art History",4.5,11
+"Pennsylvania State University","Stark Craig",Communication,4.2,11
+"Pennsylvania State University","Stewart Fiona",Italian,3.7,11
+"Pennsylvania State University","Stoner Clarence","Physical Ed",4,11
+"Pennsylvania State University","Tadigadapa Srinivas",Engineering,2,11
+"Pennsylvania State University","Taheri Christina",English,4.5,11
+"Pennsylvania State University","Teeple Alice",Art,3,11
+"Pennsylvania State University","Tendler Joshua",English,4.5,11
+"Pennsylvania State University","Thomas Tori",Sociology,4.5,11
+"Pennsylvania State University","Thornton James",Engineering,4.2,11
+"Pennsylvania State University","Toribio Almeida Jacqueline",Spanish,2.9,11
+"Pennsylvania State University","Ventresca Nicoletta",Italian,4.8,11
+"Pennsylvania State University","Verdery Ashton",Sociology,4.6,11
+"Pennsylvania State University","Voigt Robert",Engineering,3.8,11
+"Pennsylvania State University","Walden Daniel",English,3.2,11
+"Pennsylvania State University","Watkins Raymond",English,3.8,11
+"Pennsylvania State University","Weidman Sean",English,4.6,11
+"Pennsylvania State University","Weiss Kenneth",Anthropology,3.7,11
+"Pennsylvania State University","Wenger Michael",Psychology,3.6,11
+"Pennsylvania State University","Willits Billie","Labor & Employment Relations",3.9,11
+"Pennsylvania State University","Wood Thomas","Chemical Engineering",3,11
+"Pennsylvania State University","Yarber Robert","Visual Arts",3.1,11
+"Pennsylvania State University","Zeman Mike","Biological Sciences",4,11
+"Pennsylvania State University","Anderson Rebecca",English,4,10
+"Pennsylvania State University","Armaou Antonios","Chemical Engineering",2.5,10
+"Pennsylvania State University","Artemiou Andreas",Statistics,4.8,10
+"Pennsylvania State University","Assmann Sarah","Biological Sciences",3.7,10
+"Pennsylvania State University","Ayala Luis","Mineral Engineering",4,10
+"Pennsylvania State University","Baliff Serge",Mathematics,4.8,10
+"Pennsylvania State University","Barlow Jesse","Computer Science",3.6,10
+"Pennsylvania State University","Baukus Robert",Communication,2.1,10
+"Pennsylvania State University","Becker Christian",Philosophy,3.3,10
+"Pennsylvania State University","Beese Allison","Materials Engineering",4.3,10
+"Pennsylvania State University","Beishline Nicholas",English,3.3,10
+"Pennsylvania State University","Bilen Sven","Electrical Engineering",4.1,10
+"Pennsylvania State University","Bischof Angela",Chemistry,4.6,10
+"Pennsylvania State University","Bissell Joanna","Human Development",3.7,10
+"Pennsylvania State University","Blanda Stephanie",Mathematics,3.4,10
+"Pennsylvania State University","Bopp Chris",Kinesiology,4.4,10
+"Pennsylvania State University","Brunson Julie",Psychology,1.9,10
+"Pennsylvania State University","Bucciarelli Nicholas Nick","Information Sciences amp Technology",1.3,10
+"Pennsylvania State University","Byrne Eli",Mathematics,2.1,10
+"Pennsylvania State University","Call Laura",French,4.7,10
+"Pennsylvania State University","Campbell Jamie","African-American Studies",4.3,10
+"Pennsylvania State University","Chen Yao",Mathematics,3.3,10
+"Pennsylvania State University","Chen Fang","Graphic Arts",1.9,10
+"Pennsylvania State University","Chidester Paul","Fine Arts",4.2,10
+"Pennsylvania State University","Clemente Laurena",English,2.1,10
+"Pennsylvania State University","Comstock Thomas",Business,3.3,10
+"Pennsylvania State University","Cutezo Beth",Nursing,3.1,10
+"Pennsylvania State University","Davis Matthew","Computer Science",3.9,10
+"Pennsylvania State University","Dhanorkar Suvrat",Business,4.7,10
+"Pennsylvania State University","Donnell Eric","Civil Engineering",4.6,10
+"Pennsylvania State University","Dracos Marcus",Philosophy,4.7,10
+"Pennsylvania State University","Dussias Giuli",Spanish,4.2,10
+"Pennsylvania State University","Edelstein Gerardo",Music,4.6,10
+"Pennsylvania State University","Evans Blair",Kinesiology,3.5,10
+"Pennsylvania State University","Field Laura",Finance,4.3,10
+"Pennsylvania State University","Fosmire Gary",Nutrition,4.3,10
+"Pennsylvania State University","Fowler Christopher",Geography,4.3,10
+"Pennsylvania State University","Fox Derek",Astronomy,2.5,10
+"Pennsylvania State University","Friesz Terry","Industrial Engineering",3,10
+"Pennsylvania State University","Fulton Deirdre",History,3.7,10
+"Pennsylvania State University","Gerfen Chip",Spanish,2.7,10
+"Pennsylvania State University","Grant Kimi",English,4.4,10
+"Pennsylvania State University","Groves William","Environmental Engineering",4.2,10
+"Pennsylvania State University","Guide Daniel",Business,2.2,10
+"Pennsylvania State University","Hallgren Sean","Computer Science",2.3,10
+"Pennsylvania State University","Hampton Grace","Art History",3,10
+"Pennsylvania State University","Harkins Gordon",Photography,4.2,10
+"Pennsylvania State University","Hasan Aminah",Philosophy,2.2,10
+"Pennsylvania State University","He Ting","Computer Science",2.3,10
+"Pennsylvania State University","Hilliard Lacey",Psychology,4.1,10
+"Pennsylvania State University","HILLS MICHAEL","Information Sciences  Technology",4.9,10
+"Pennsylvania State University","Hoenig John","Not Specified",2.5,10
+"Pennsylvania State University","Hogan Tom","Labor & Employment Relations",3.9,10
+"Pennsylvania State University","Huizar Leah",English,3.4,10
+"Pennsylvania State University","Humeniuk Mariano","Comparative Literature",2.2,10
+"Pennsylvania State University","Ityokumbul M. Thaddeus","Earth Science",2.5,10
+"Pennsylvania State University","Jacobson Nick",Psychology,3.9,10
+"Pennsylvania State University","Janik Michael","Chemical Engineering",4.7,10
+"Pennsylvania State University","Jenkins Philip",Religion,4.6,10
+"Pennsylvania State University","Jones Lindsey",English,4.4,10
+"Pennsylvania State University","Jones Hillary",Communication,3.7,10
+"Pennsylvania State University","Jones Leisha","Women's Studies",2.5,10
+"Pennsylvania State University","Kang Ming-Hsuan",Mathematics,3.7,10
+"Pennsylvania State University","Kazeem Aramide",Statistics,1.9,10
+"Pennsylvania State University","Kessler Louise","Biological Sciences",4.6,10
+"Pennsylvania State University","Kim Seong","Chemical Engineering",2.7,10
+"Pennsylvania State University","Kimmel Aaron",English,2.4,10
+"Pennsylvania State University","King Lovalerie",English,4.1,10
+"Pennsylvania State University","Kirshtein Arkadz",Mathematics,4,10
+"Pennsylvania State University","Knight C. Gregory",Geography,4.1,10
+"Pennsylvania State University","Koide Roger",Horticulture,4.2,10
+"Pennsylvania State University","Korzick Donna",Kinesiology,3.6,10
+"Pennsylvania State University","Kotobi Khashayar","Electrical Engineering",4.5,10
+"Pennsylvania State University","Krill Nicholas",Art,2.6,10
+"Pennsylvania State University","Krise Keith",Chemistry,4.8,10
+"Pennsylvania State University","Lachman Steven",Geography,2.1,10
+"Pennsylvania State University","Lai Zhi-Chun","Biological Sciences",2.3,10
+"Pennsylvania State University","Laux Rick",Accounting,4.8,10
+"Pennsylvania State University","Le Thinh",Mathematics,2,10
+"Pennsylvania State University","Liechty John",Business,3.2,10
+"Pennsylvania State University","Litzinger Thomas",Engineering,4.9,10
+"Pennsylvania State University","Lockett Alexandria",English,2.8,10
+"Pennsylvania State University","Lusk Mark",Music,4.2,10
+"Pennsylvania State University","Mayanskiy Evgeny",Mathematics,3.2,10
+"Pennsylvania State University","McCabe Carol",Spanish,4.3,10
+"Pennsylvania State University","Medvedev Paul","Computer Science",2.8,10
+"Pennsylvania State University","Mengisteab Kidane","Political Science",3.3,10
+"Pennsylvania State University","Miller Eric",Communication,4.4,10
+"Pennsylvania State University","Milliron Mark","Health Administration",3.8,10
+"Pennsylvania State University","Mills Donald",Mathematics,1.9,10
+"Pennsylvania State University","Minneci Francis",English,3.1,10
+"Pennsylvania State University","Mistrick Richard",Engineering,2.8,10
+"Pennsylvania State University","Mohr Philip","Biological Sciences",4,10
+"Pennsylvania State University","Moody Shirley",English,2.7,10
+"Pennsylvania State University","Motta Arthur",Engineering,3.6,10
+"Pennsylvania State University","Mwangi Margaret N","Africana Studies",5,10
+"Pennsylvania State University","Nader Gustavo",Kinesiology,3.9,10
+"Pennsylvania State University","Nekrutenko Anton","Biological Sciences",2.1,10
+"Pennsylvania State University","Nelson Anthony",Psychology,5,10
+"Pennsylvania State University","Netzer Danielle",English,4.5,10
+"Pennsylvania State University","New Michael",English,4.1,10
+"Pennsylvania State University","Nguyen Giang",Finance,3.6,10
+"Pennsylvania State University","Nielsen Aldon",English,2.5,10
+"Pennsylvania State University","O'Neil John","Hotel & Restaurant Management",4.2,10
+"Pennsylvania State University","O'Toole Kathleen",Broadcasting,4.9,10
+"Pennsylvania State University","Orr Timothy",History,3.7,10
+"Pennsylvania State University","Pang Guodong","Industrial Engineering",3.8,10
+"Pennsylvania State University","Parsons Patrick",Communication,3,10
+"Pennsylvania State University","Pasko Victor",Engineering,2.9,10
+"Pennsylvania State University","Pincus Aaron Lee",Psychology,4.6,10
+"Pennsylvania State University","Poggiani Francesco",Philosophy,3.2,10
+"Pennsylvania State University","Ponder Daniel","Political Science",4.5,10
+"Pennsylvania State University","Porter Andrew","Behavioral Sciences",5,10
+"Pennsylvania State University","Povich Matthew",Astronomy,1.6,10
+"Pennsylvania State University","Price Matt",English,4.5,10
+"Pennsylvania State University","Purcell Leslie","Communication Disorders",3.5,10
+"Pennsylvania State University","Radosevich Alexan",Chemistry,4,10
+"Pennsylvania State University","Regan Amanda",Languages,5,10
+"Pennsylvania State University","Reimherr Matthew ",Statistics,3.2,10
+"Pennsylvania State University","Richardson Yvette",Meteorology,3.3,10
+"Pennsylvania State University","Roccamo Ashley",German,3.2,10
+"Pennsylvania State University","Roeber Anthony",Religion,3.5,10
+"Pennsylvania State University","Rome Adam",History,4.2,10
+"Pennsylvania State University","Rose Joseph",Engineering,3.2,10
+"Pennsylvania State University","Russell Ryan","Graphic Arts",3.6,10
+"Pennsylvania State University","Salis Howard",Engineering,2.5,10
+"Pennsylvania State University","Salzer Kathryn",History,3.4,10
+"Pennsylvania State University","Schreier Benjamin",English,3.8,10
+"Pennsylvania State University","Schulze Robin",English,4,10
+"Pennsylvania State University","Sentesy Mark",Philosophy,3.8,10
+"Pennsylvania State University","Shaltiel Amalia",Kinesiology,4.7,10
+"Pennsylvania State University","Shao Mingfu","Computer Science",3.5,10
+"Pennsylvania State University","Sherman-Wilkins Kyler",Sociology,4.7,10
+"Pennsylvania State University","Shields Stephanie",Psychology,3.3,10
+"Pennsylvania State University","Shurgalla Richard","Health Administration",4.3,10
+"Pennsylvania State University","Sica Alan",Sociology,4.5,10
+"Pennsylvania State University","Smith Joshua",English,3.7,10
+"Pennsylvania State University","Smits Akiko",Japanese,4.7,10
+"Pennsylvania State University","Snipes Shedra","Behavioral Sciences",3.8,10
+"Pennsylvania State University","Staub Alexandra",Architecture,3.2,10
+"Pennsylvania State University","Stout Andrea",English,2.1,10
+"Pennsylvania State University","Tamura Megumu",Japanese,3.3,10
+"Pennsylvania State University","Telatovich Adam",Mathematics,4,10
+"Pennsylvania State University","Thompsen John",Mathematics,3,10
+"Pennsylvania State University","Trauth Eileen","Information Systems",3,10
+"Pennsylvania State University","Tunno Patrick",Italian,4.3,10
+"Pennsylvania State University","Vanden Joel",Finance,4.6,10
+"Pennsylvania State University","Vaughan Robert",Mathematics,4.6,10
+"Pennsylvania State University","Ventsel Eduard",Engineering,3.7,10
+"Pennsylvania State University","Wang Mian","Civil Engineering",3.4,10
+"Pennsylvania State University","Wanner Catherine",History,4.8,10
+"Pennsylvania State University","Whittaker Carol",English,2.5,10
+"Pennsylvania State University","Wiesinger Jason",Nutrition,4.4,10
+"Pennsylvania State University","Wines James",Architecture,3.2,10
+"Pennsylvania State University","Yeaple Stephen",Economics,4.3,10
+"Pennsylvania State University","Yonoshonis Mary Ellen",Nursing,3.4,10
+"Pennsylvania State University","Zhang YU",Statistics,3.5,10
