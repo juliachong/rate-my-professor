@@ -18,3 +18,6 @@ Conclusions:
 - STEM departments had a wider distribution of ratings centered around a 3 out of 5, while liberal arts was heavily concentrated around a rating of 4.5 out of 5.
 - Private and public colleges had a statistically significant difference in ratings.
 - Private colleges had a higher standard deviation as well as a higher average rating.
+
+Visualizations:
+![](private_public.png)
